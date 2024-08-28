@@ -1,10 +1,7 @@
 import sys, re, argparse
 from functools import cache
 from rdkit import Chem
-#from multiCompApp import chemSmilesHelper
 import consts
-
-#smilesHelper = chemSmilesHelper.smilesHelper()
 
 
 @cache

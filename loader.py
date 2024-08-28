@@ -2,11 +2,7 @@ import pickle, json, itertools
 import networkx
 from networkx.drawing.nx_pydot import write_dot
 from rdkit import Chem
-import helpers, consts, loaderCat, loaderGraph, loaderHelper #, deprotonation
-#from multiCompApp import chemSmilesHelper
-
-
-#smilesHelper = chemSmilesHelper.smilesHelper()
+import helpers, consts, loaderCat, loaderGraph, loaderHelper
 
 
 def loadOnepotCmds(fn):

@@ -15,12 +15,19 @@ For details about deposited paths see [READMEpaths.md](inputdata/READMEpaths.md)
 
 
 ## Code
+### Overview
 Code for prediction yield from path are stored in main directory. The code requires as a input:
 - reaction databased (databased needed for calculating all deposited paths is stored in inputdata/reactionInfo.json file)
 - model parameters (trained model is stored in inputdata/modelParams.json)
 - information about path(s) which be calculated (example pickle files are strored in inputdata/testSet, inputdata/trainingSet and inputdata/additionalReactions)
 
 To run the code use yieldPrediction.py script (see example usage below), for full list of options run `python yieldPrediction.py --help` however easier way to change options is to edit namespace file.
+### Requirements:
+- Python 3.x (tested on Python 3.9 and 3.11)
+- networkX 2.x (tested on 2.5)
+- cachetools (tested on 5.3.1 and 5.5.0)
+- numpy (tested on 1.23.1 and 2.0.0)
+  
 ### Example usage:
 Calculate yield for all deposited paths with precalculated model parameters and original reaction data base:
  `python ./ yieldPrediction.py --namespace inputdata/modelParams.json  --loadrxdb inputdata/reactionInfo.json --loadpickles inputdata/*/*.pickle`

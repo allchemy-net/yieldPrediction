@@ -23,7 +23,7 @@ The code for predicting the yield from a given mechanistic path is stored in the
 
 To run the code use yieldPrediction.py script (see example usage below). For a full list of options run `python yieldPrediction.py --help`. However an easier way to change options is to edit the namespace file.
 ### Requirements:
-- Python 3.x (tested on Python 3.9 and 3.11)
+- Python >= 3.9 (tested on Python 3.9, 3.10 and 3.11)
 - networkX 2.x (tested on 2.5)
 - cachetools (tested on 5.3.1 and 5.5.0)
 - numpy (tested on 1.23.1 and 2.0.0)

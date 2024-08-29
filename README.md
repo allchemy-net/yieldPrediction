@@ -26,6 +26,7 @@ To run the code use yieldPrediction.py script (see example usage below). For a f
 - Python >= 3.9 (tested on Python 3.9, 3.10 and 3.11)
 - networkX 2.x (tested on 2.5)
 - cachetools (tested on 5.3.1 and 5.5.0)
+- rdkit (tested on 2022.03)
 - numpy (tested on 1.23.1 and 2.0.0)
   
 ### Example usage:

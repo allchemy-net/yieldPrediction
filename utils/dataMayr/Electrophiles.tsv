@@ -1,0 +1,253 @@
+SMILES	Solvent	Reactivity Parameters	SMARTS
+COc1ccc([CH+]c2ccc(OC)cc2)cc1	0	E Parameter: 0.00	[CH+](c1ccccc1)c1ccccc1
+Fc1cccc([CH+]c2cc(F)cc(F)c2)c1	0	E Parameter: 7.52	[CH+](c1ccccc1)c1ccccc1
+Fc1cc(F)cc([CH+]c2cc(F)cc(F)c2)c1	0	E Parameter: 8.02	[CH+](c1ccccc1)c1ccccc1
+Fc1cc(F)cc([CH+]c2ccccc2)c1	0	E Parameter: 6.74	[CH+](c1ccccc1)c1ccccc1
+CN(C)c1ccc([CH+]c2ccc(N(C)C)cc2)cc1	0	E Parameter: -7.02	[CH+](c1ccccc1)c1ccccc1
+[CH+](c1ccc(cc1)N(c1ccccc1)c1ccccc1)c1ccc(cc1)N(c1ccccc1)c1ccccc1	0	E Parameter: -4.72	[CH+](c1ccccc1)c1ccccc1
+Cc1ccc([CH+]c2ccc(C)c(F)c2)cc1F	0	E Parameter: 5.24	[CH+](c1ccccc1)c1ccccc1
+COc1ccc([CH+]c2ccc3OCCc3c2)cc1	0	E Parameter: -0.81	[CH+](c1ccccc1)c1ccccc1
+C1Cc2cc([CH+]c3ccc4OCCc4c3)ccc2O1	0	E Parameter: -1.36	[CH+](c1ccccc1)c1ccccc1
+CN1CCc2ccc([CH+]c3ccc4CCN(C)c4c3)cc12	0	E Parameter: -8.76	[CH+](c1ccccc1)c1ccccc1
+C1CN2CCCc3cc([CH+]c4cc5CCCN6CCCc(c4)c56)cc(C1)c23	0	E Parameter: -9.45	[CH+](c1ccccc1)c1ccccc1
+C1Cc2cc([CH+]c3cc4CCN5CCCc(c3)c45)cc3CCCN1c23	0	E Parameter: -10.04	[CH+](c1ccccc1)c1ccccc1
+CN(CC(F)(F)F)c1ccc([CH+]c2ccc(N(C)CC(F)(F)F)cc2)cc1	0	E Parameter: -3.85	[CH+](c1ccccc1)c1ccccc1
+Fc1ccc([CH+]c2ccc(F)cc2)cc1	0	E Parameter: 6.87	[CH+](c1ccccc1)c1ccccc1
+Fc1ccc([CH+]c2ccccc2)cc1	0	E Parameter: 6.23	[CH+](c1ccccc1)c1ccccc1
+C1CN(CCO1)c1ccc([CH+]c2ccc(cc2)N2CCOCC2)cc1	0	E Parameter: -5.53	[CH+](c1ccccc1)c1ccccc1
+CN(c1ccccc1)c1ccc([CH+]c2ccc(cc2)N(C)c2ccccc2)cc1	0	E Parameter: -5.89	[CH+](c1ccccc1)c1ccccc1
+Clc1ccc([CH+]c2ccc(Cl)cc2)cc1	0	E Parameter: 5.48	[CH+](c1ccccc1)c1ccccc1
+FC(F)(F)CN(c1ccccc1)c1ccc([CH+]c2ccc(cc2)N(CC(F)(F)F)c2ccccc2)cc1	0	E Parameter: -3.14	[CH+](c1ccccc1)c1ccccc1
+Fc1ccc([CH+]c2ccc(F)cc2)cc1	0	E Parameter: 5.01	[CH+](c1ccccc1)c1ccccc1
+C1CCN(C1)c1ccc([CH+]c2ccc(cc2)N2CCCC2)cc1	0	E Parameter: -7.69	[CH+](c1ccccc1)c1ccccc1
+FC(F)(F)c1ccc([CH+]c2ccc(cc2)C(F)(F)F)cc1	0	E Parameter: 7.96	[CH+](c1ccccc1)c1ccccc1
+FC(F)(F)c1ccc([CH+]c2ccccc2)cc1	0	E Parameter: 6.70	[CH+](c1ccccc1)c1ccccc1
+CN1CCCc2cc([CH+]c3ccc4N(C)CCCc4c3)ccc12	0	E Parameter: -8.22	[CH+](c1ccccc1)c1ccccc1
+Cc1ccc([CH+]c2ccc(C)cc2)cc1	0	E Parameter: 3.63	[CH+](c1ccccc1)c1ccccc1
+COc1ccc([CH+]c2ccccc2)cc1	0	E Parameter: 2.11	[CH+](c1ccccc1)c1ccccc1
+COc1ccc([CH+]c2ccc(Oc3ccccc3)cc2)cc1	0	E Parameter: 0.61	[CH+](c1ccccc1)c1ccccc1
+COc1ccc([CH+]c2ccc(C)cc2)cc1	0	E Parameter: 1.48	[CH+](c1ccccc1)c1ccccc1
+[CH+](c1ccccc1)c1ccccc1	0	E Parameter: 5.47	[CH+](c1ccccc1)c1ccccc1
+Fc1ccc([CH+]c2ccccc2)cc1	0	E Parameter: 5.20	[CH+](c1ccccc1)c1ccccc1
+[CH+](c1ccccc1)c1ccc(Oc2ccccc2)cc1	0	E Parameter: 2.90	[CH+](c1ccccc1)c1ccccc1
+Cc1ccc([CH+]c2ccc(Oc3ccccc3)cc2)cc1	0	E Parameter: 2.16	[CH+](c1ccccc1)c1ccccc1
+Cc1ccc([CH+]c2ccccc2)cc1	0	E Parameter: 4.43	[CH+](c1ccccc1)c1ccccc1
+CC1=[N+](C)C2=CC=CC=C2\C1=C/C1=CC=C(C)C=C1	0	E Parameter: -5.05	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+C(C)(C)(C)C/1=[NH+]C2=CC=CC=C2\C1=C/C1=CC=C(C=C1)C	dichloromethane	E Parameter: -5.06	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+CC1=[NH+]C2=CC=CC=C2\C1=C/C1=CC=C(C)C=C1	0	E Parameter: -5.15	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+CC1=[N+](C)C2=CC=CC=C2\C1=C/C1=CC=CC=C1	0	E Parameter: -4.96	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+C[N+]1=C\C(=C/C2=CC3=C4N(CCCC4=C2)CCC3)C2=CC=CC=C12	0	E Parameter: -7.79	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+CC1=CC=C(\C=C2/C=[N+](C)C3=CC=CC=C23)C=C1	0	E Parameter: -2.19	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+CN(C)C1=CC=C(\C=C2/C=[N+](C)C3=CC=CC=C23)C=C1	0	E Parameter: -6.26	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+COC1=CC=C(\C=C2/C=[N+](C)C3=CC=CC=C23)C=C1	0	E Parameter: -3.02	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+C[N+]1=C\C(=C/C2=CC=CC=C2)C2=CC=CC=C12	0	E Parameter: -1.80	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+CN1C(C)=C(\C=C2\C(C)=[N+](C)C3=CC=CC=C23)c2ccccc12	0	E Parameter: -10.23	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+CN1C=C(\C=C2/C=[N+](C)C3=CC=CC=C23)c2ccccc12	0	E Parameter: -5.99	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+COC1=CC=C2C(=C1)\C(=C\C1=CN(C)c3ccc(OC)cc13)C=[N+]2C	0	E Parameter: -6.90	[CX4][N+]1=CC(=C[CX4,c])c2ccccc12.[NH+]1=CC(=C[CX4,c])c2ccccc12
+CC1=C(C(=CC(=C1)C)C)[CH+]C	0	E Parameter: 6.04	[CH+]([CX4])c1ccccc1
+[CH+](C=C(c1ccccc1)c1ccccc1)c1ccccc1	0	E Parameter: 0.98	[CH+]([CX3]=[CX3])c1ccccc1
+CN(C)c1ccc([CH+]C=C(c2ccc(cc2)N(C)C)c2ccc(cc2)N(C)C)cc1	0	E Parameter: -9.84	[CH+]([CX3]=[CX3])c1ccccc1
+CN(C)c1ccc(cc1)C(=C[CH+]c1ccccc1)c1ccc(cc1)N(C)C	0	E Parameter: -8.97	[CH+]([CX3]=[CX3])c1ccccc1
+COc1ccc(cc1)C(=C[CH+]c1ccccc1)c1ccc(OC)cc1	0	E Parameter: -2.67	[CH+]([CX3]=[CX3])c1ccccc1
+CC(C[CH+]c1c(C)cc(C)cc1C)c1c(C)cc(C)cc1C	0	E Parameter: 6.16	[CH+]([CX4])c1ccccc1
+ClC1=CC=C(C=C1)[C+]1C=CCC1	0	E Parameter: 3.20	[CX4][C+]([CX3]=[CX3])c1ccccc1
+C1(=CC=CC=C1)[C+]1C=CCC1	0	E Parameter: 2.89	[CX4][C+]([CX3]=[CX3])c1ccccc1
+CN(C1=CC=C(C=C1)[C+]1C2=CC=CC=C2C=2C=CC=CC12)C	dichloromethane	E Parameter: -4.51	[c][C+](c1ccccc1)c1ccccc1
+COC1=CC=C(C=C1)[C+]1C2=CC=CC=C2C=2C=CC=CC12	dichloromethane	E Parameter: 0.85	[c][C+](c1ccccc1)c1ccccc1
+C1(=CC=CC=C1)[C+]1C2=CC=CC=C2C=2C=CC=CC12	dichloromethane	E Parameter: 2.41	[c][C+](c1ccccc1)c1ccccc1
+C1CN2CCCc3cc([CH+]\C=C\c4cc5CCCN6CCCc(c4)c56)cc(C1)c23		E Parameter: -9.78	[CH+]([CX3]=[CX3])c1ccccc1
+C[C+](C)C1=CC=CC=C1		E Parameter: 5.74	[CX4][C+]([CX4])c1ccccc1
+COc1ccc([CH+]\C=C\c2ccc(OC)cc2)cc1		E Parameter: -1.45	[CH+]([CX3]=[CX3])c1ccccc1
+Cc1ccc([CH+]\C=C\c2ccc(C)cc2)cc1		E Parameter: 1.23	[CH+]([CX3]=[CX3])c1ccccc1
+Fc1cc(F)cc([CH+]\C=C\c2cc(F)cc(F)c2)c1		E Parameter: 6.11	[CH+]([CX3]=[CX3])c1ccccc1
+Fc1cccc([CH+]\C=C\c2cccc(F)c2)c1		E Parameter: 4.15	[CH+]([CX3]=[CX3])c1ccccc1
+Brc1ccc([CH+]\C=C\c2ccc(Br)cc2)cc1		E Parameter: 2.85	[CH+]([CX3]=[CX3])c1ccccc1
+Clc1ccc([CH+]\C=C\c2ccc(Cl)cc2)cc1		E Parameter: 2.69	[CH+]([CX3]=[CX3])c1ccccc1
+CN(C)c1ccc([CH+]\C=C\c2ccc(N(C)C)cc2)cc1		E Parameter: -7.50	[CH+]([CX3]=[CX3])c1ccccc1
+[cH+](c1ccccc1)c1ccccc1	dichloromethane	E Parameter: -0.63	[CH+](c1ccccc1)c1ccccc1
+c1ccc([CH+]\C=C\c2ccccc2)cc1		E Parameter: 2.70	[CH+]([CX3]=[CX3])c1ccccc1
+c1ccc[cH+]cc1	0	E Parameter: -3.72	c1ccc[cH+]cc1
+C(C1=CC=CC=C1)[C@H]1C(N([C@@H]([N+]1=CC=CC1=CC=CC=C1)\C=C\C1=CC=CC=C1)C)=O	dichloromethane	E Parameter: -5.90	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C(c1ccccc1)[N+](Cc1ccccc1)=CC=Cc1ccccc1	0	E Parameter: -8.50	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+CC1(/[N+](/[C@H](C(N1C)=O)CC1=CC(=C(C(=C1)OC)OC)OC)=C/C=C/C1=CC=CC=C1)C	dichloromethane	E Parameter: -7.00	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+CC1(/[N+](/[C@H](C(N1C)=O)CC1=C(C(=C(C(=C1F)F)F)F)F)=C/C=C/C1=CC=CC=C1)C	dichloromethane	E Parameter: -6.00	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+N1C=C(C2=CC=CC=C12)C[C@H]\1C(N(C(/[N+]1=C/C=C/C1=CC=CC=C1)(C)C)C)=O	dichloromethane	E Parameter: -7.30	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C(C1=CC=CC=C1)[C@H]\1C(N(C(/[N+]1=C/C=C/C1=CC=C(C=C1)N(C)C)(C)C)C)=O	dichloromethane	E Parameter: -10.60	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C(C1=CC=CC=C1)[C@H]\1C(N(C(/[N+]1=C/C=C/C1=CC=C(C=C1)C#N)(C)C)C)=O	dichloromethane	E Parameter: -6.00	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C(C1=CC=CC=C1)[C@H]\1C(N(C(/[N+]1=C/C=C/C1=CC=C(C=C1)OC)(C)C)C)=O	dichloromethane	E Parameter: -8.00	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C(C1=CC=CC=C1)[C@H]\1C(N(C(/[N+]1=C/C=C/C1=CC(=CC=C1)[N+](=O)[O-])(C)C)C)=O	dichloromethane	E Parameter: -6.10	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C(C1=CC=CC=C1)[C@H]\1C(N(C(/[N+]1=C/C=C/C1=CC=C(C=C1)[N+](=O)[O-])(C)C)C)=O	dichloromethane	E Parameter: -5.90	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C(C1=CC=CC=C1)[C@H]\1C(N(C(/[N+]1=C/C=C/C1=CC=C(C=C1)C)(C)C)C)=O	dichloromethane	E Parameter: -7.20	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C[N+](C)=C	0	E Parameter: -6.69	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+[O-]C(=O)[C@H]1Cc2ccccc2[N+]1=CC=Cc1ccccc1	dichloromethane	E Parameter: -9.50	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C[Si](C)(C)OC([C@@H]1CCC[N+]1=CC=Cc1ccccc1)(c1ccccc1)c1ccccc1	0	E Parameter: -8.20	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+CC1(C)NC(=O)[C@H](Cc2ccccc2)\[N+]1=C/C=C/c1ccccc1	MeCN	E Parameter: -7.37	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+CC(C)(C)[C@@H]1NC(=O)[C@H](Cc2ccccc2)\[N+]1=C/C=C/c1ccccc1	MeCN	E Parameter: -5.52	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+O=C1N[C@]2(CCCC2)\[N+](=C\C=C\c2ccccc2)[C@H]1Cc1ccccc1	MeCN	E Parameter: -7.67	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C[N+](C)=CC=Cc1ccccc1	0	E Parameter: -9.20	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C[N+](=C)c1ccccc1	0	E Parameter: -5.17	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C1C[N+](CCO1)=CC=Cc1ccccc1	0	E Parameter: -8.60	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+CC=[N+]1C2=CC=CC=C2C2=C1C=CC=C2	0	E Parameter: 2.41	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C[N+]1=C2C=CC=CC2=CC2=CC=CC=C12	0	E Parameter: -7.15	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+COc1ccc(C=[N+](C)C)cc1	MeCN	E Parameter: -10.69	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C[N+](C)=Cc1ccc(cc1)C(F)(F)F	MeCN	E Parameter: -8.34	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C1CC[N+](C1)=Cc1ccccc1	MeCN	E Parameter: -9.35	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C1CC[N+](CC1)=Cc1ccccc1	MeCN	E Parameter: -9.60	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C[N+](C)=Cc1ccccc1	MeCN	E Parameter: -9.27	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C1C[N+](CCC1)=CC=Cc1ccccc1	0	E Parameter: -10.30	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+Cc1ccc(C=[N+](C)C)cc1	MeCN	E Parameter: -9.64	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C1C2C[N+](CC12)=CC=Cc1ccccc1	0	E Parameter: -9.80	[CX4,c][NX3+]([CX4,c])=[CX3H2].[CX4,c][NX3+]([CX4,c])=[CX3H][#6].[CX4,c][NX3H+]=[CX3H][#6].[NX3H2+]=[CX3]([#6])[#6]
+C[N+](C)=CCl	0	E Parameter: -5.77	[CX4,c][NX3+]([CX4,c])=[CX3H][Cl]
+C#CC[NH+]=Cc1ccccc1N=[N+]=[N-]		E Parameter: -9	[CX4,c][NX3H+]=[CX3H][#6]
+COC1=CC=C(C=C1)C1=[O+]C2=CC=CC=C2C=C1	0	E Parameter: -4.95	c1cc2ccccc2[o+]c1
+[O+]1=C(C=CC2=CC=CC=C12)C1=CC=CC=C1	0	E Parameter: -3.45	c1cc2ccccc2[o+]c1
+CO[CH+]C1=CC=C(C=C1)OC	0	E Parameter: 0.14	[c][CH+][OX2][CX4]
+CO[CH+]C1=CC=C(C=C1)C	0	E Parameter: 1.90	[c][CH+][OX2][CX4]
+CO[CH+]C1=CC=CC=C1	0	E Parameter: 2.97	[c][CH+][OX2][CX4]
+S1[CH+]SCCC1	0	E Parameter: -2.14	[CX3H+]([SX2][CX4])[SX2][CX4].[CX4][CX4+]([SX2][CX4])[SX2][CX4]
+C1(=CC=CC=C1)[C+]1SCCCS1	0	E Parameter: -6.43	[c][CX3+]([SX2][CX4])[SX2][CX4]
+C1(=CC=CC=C1)[C+]1SCCS1	0	E Parameter: -5.91	[c][CX3+]([SX2][CX4])[SX2][CX4]
+C(C)(C)(C)N1C(=[N+](C=C1)C)C(C=CC1=CC=CC=C1)=O	DMSO	E Parameter: -11.80	[CX4][nr5+][c]([nr5][CX4,c])[CX3](=[OX1])[CX3]=[CX3][c]
+C(C=CC1=CC=CC=C1)(=O)C=1N(C=C[N+]1C)C	DMSO	E Parameter: -11.52	[CX4][nr5+][c]([nr5][CX4,c])[CX3](=[OX1])[CX3]=[CX3][c]
+C(C=CC1=CC=CC=C1)(=O)C=1N(C=C[N+]1C)C1=C(C=CC=C1OC)OC	DMSO	E Parameter: -12.02	[CX4][nr5+][c]([nr5][CX4,c])[CX3](=[OX1])[CX3]=[CX3][c]
+C(C=CC1=CC=CC=C1)(=O)C=1N(C=C[N+]1C)C1=CC=C(C=C1)OC	DMSO	E Parameter: -11.79	[CX4][nr5+][c]([nr5][CX4,c])[CX3](=[OX1])[CX3]=[CX3][c]
+C(C=CC1=CC=CC=C1)(=O)C=1N(C=C[N+]1C)C1=C(C=C(C=C1C)C)C	DMSO	E Parameter: -11.48	[CX4][nr5+][c]([nr5][CX4,c])[CX3](=[OX1])[CX3]=[CX3][c]
+C(C=CC1=CC=CC=C1)(=O)C=1N(C=C[N+]1C)C1=C(C(=C(C(=C1F)F)F)F)F	DMSO	E Parameter: -10.09	[CX4][nr5+][c]([nr5][CX4,c])[CX3](=[OX1])[CX3]=[CX3][c]
+COc1ccc(C=C(C[N+]23CCC(CC2)CC3)C(C)=O)cc1		E Parameter: -18.90	[#6][CX3](=[OX1])[CX3]([CH2][N+,n+])=[CX3][c]
+COc1ccc(C=C(C[n+]2ccc(cc2)N(C)C)C(C)=O)cc1		E Parameter: -19.10	[#6][CX3](=[OX1])[CX3]([CH2][N+,n+])=[CX3][c]
+COc1ccc(C=C(C[n+]2ccc(OC)cc2)C(C)=O)cc1		E Parameter: -18.20	[#6][CX3](=[OX1])[CX3]([CH2][N+,n+])=[CX3][c]
+COc1ccc(C=C(C[n+]2ccc(cc2)N2CCOCC2)C(C)=O)cc1		E Parameter: -18.90	[#6][CX3](=[OX1])[CX3]([CH2][N+,n+])=[CX3][c]
+O=C1Oc2ccccc2C=C1C[N+]12CCN(CC1)CC2		E Parameter: -17.30	[#6][CX3](=[OX1])[CX3]([CH2][N+,n+])=[CX3][c]
+COc1ccc(C=C(C[N+]23CCN(CC2)CC3)C(C)=O)cc1		E Parameter: -18.60	[#6][CX3](=[OX1])[CX3]([CH2][N+,n+])=[CX3][c]
+COc1ccc(C=C(C[n+]2ccccc2)C(C)=O)cc1		E Parameter: -17.90	[#6][CX3](=[OX1])[CX3]([CH2][N+,n+])=[CX3][c]
+CN1CCCC2=CC(=CC=C12)C=C(C(=O)OCC)C(=O)OCC	0	E Parameter: -23.40	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+CCOC(=O)C(=CC1=CC2=C3N(CCCC3=C1)CCC2)C(=O)OCC	0	E Parameter: -23.80	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+CCOC(=O)C(=CC1=CC=CC(Cl)=C1)C(=O)OCC	0	E Parameter: -18.98	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+CCOC(=O)C(=CC1=CC=C(C=C1)N(C)C)C(=O)OCC	0	E Parameter: -23.10	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+CCOC(=O)C(=CC1=CC=C(C=C1)C#N)C(=O)OCC	0	E Parameter: -18.06	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+CCOC(=O)C(=CC1=CC=C(OC)C=C1)C(=O)OCC	0	E Parameter: -21.47	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+CCOC(=O)C(=CC1=CC=C(C)C=C1)C(=O)OCC	0	E Parameter: -21.11	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+CCOC(=O)C(=CC1=CC=C(C=C1)[N+]([O-])=O)C(=O)OCC	0	E Parameter: -17.67	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+CCOC(=O)C(=CC1=CC=CC=C1)C(=O)OCC	0	E Parameter: -20.55	[CX4,c][OX2][CX3](=[OX1])[CX3]([CX3](=[OX1])[OX2][CX4,c])=[CX3][c]
+COC1=CC=C(C=C1)C=C(S(=O)(=O)C1=CC=CC=C1)S(=O)(=O)C1=CC=CC=C1	DMSO	E Parameter: -13.88	[#6][SX4](=[OX1])(=[OX1])[CX3]([SX4](=[OX1])(=[OX1])[#6])=[CX3][c]
+C1(=CC=CC=C1)C=C(S(=O)(=O)C1=CC=CC=C1)S(=O)(=O)C1=CC=CC=C1	DMSO	E Parameter: -12.93	[#6][SX4](=[OX1])(=[OX1])[CX3]([SX4](=[OX1])(=[OX1])[#6])=[CX3][c]
+C(=C)(S(=O)(=O)C1=CC=CC=C1)S(=O)(=O)C1=CC=CC=C1	DMSO	E Parameter: -7.50	[#6][SX4](=[OX1])(=[OX1])[CX3]([SX4](=[OX1])(=[OX1])[#6])=[CX3H2].[#6][SX4](=[OX1])(=[OX1])[CX3]([SX4](=[OX1])(=[OX1])[#6])=[CX3H][CX4]
+COC1=CC=C(C=C2S(CCCS2(=O)=O)(=O)=O)C=C1	DMSO	E Parameter: -14.55	[#6][SX4](=[OX1])(=[OX1])[CX3]([SX4](=[OX1])(=[OX1])[#6])=[CX3][c]
+COC1=CC=C(C=C2S(C3=C(S2(=O)=O)C=CC=C3)(=O)=O)C=C1	DMSO	E Parameter: -13.02	[#6][SX4](=[OX1])(=[OX1])[CX3]([SX4](=[OX1])(=[OX1])[#6])=[CX3][c]
+C(C1=CC=CC=C1)=C1S(C2=C(S1(=O)=O)C=CC=C2)(=O)=O	DMSO	E Parameter: -11.78	[#6][SX4](=[OX1])(=[OX1])[CX3]([SX4](=[OX1])(=[OX1])[#6])=[CX3][c]
+C1(=CC=CC=C1)S(=O)(=O)C(=CC1=CC=C(N(C)C)C=C1)S(=O)(=O)C1=CC=CC=C1	DMSO	E Parameter: -16.53	[#6][SX4](=[OX1])(=[OX1])[CX3]([SX4](=[OX1])(=[OX1])[#6])=[CX3][c]
+COC(=O)C=C(C)N=NC(=O)Nc1ccccc1	DMSO	E Parameter: -13.28	[OX2,NX3,SX2,#6][CX3](=[OX1])[CX3H]=[CX3]([CX4])[NX2]=[NX2][CX3]=[OX1]
+COC(=O)N=NC(C)=CC(=O)N(C)C	DMSO	E Parameter: -13.90	[OX2,NX3,SX2,#6][CX3](=[OX1])[CX3H]=[CX3]([CX4])[NX2]=[NX2][CX3]=[OX1]
+COC(=O)C=C(C)N=NC(N)=O	DMSO	E Parameter: -14.91	[OX2,NX3,SX2,#6][CX3](=[OX1])[CX3H]=[CX3]([CX4])[NX2]=[NX2][CX3]=[OX1]
+CN(C)C(=O)C=C(C)N=NC(=O)Nc1ccccc1	DMSO	E Parameter: -15.38	[OX2,NX3,SX2,#6][CX3](=[OX1])[CX3H]=[CX3]([CX4])[NX2]=[NX2][CX3]=[OX1]
+CCOC(=O)C1=C(CCC1)N=NC(N)=O	MeOH	E Parameter: -14.90	[OX2,NX3,SX2,#6][CX3](=[OX1])[CX3]([CX4])=[CX3]([CX4])[NX2]=[NX2][CX3]=[OX1]
+CN(C)C(=O)C=C(C)N=NC(N)=O	MeOH	E Parameter: -15.30	[OX2,NX3,SX2,#6][CX3](=[OX1])[CX3H]=[CX3]([CX4])[NX2]=[NX2][CX3]=[OX1]
+[O-][N+](=O)\C=C\c1ccc(Br)cc1		E Parameter: -13.37	[O-][N+](=[OX1])[CX3H]=[CX3H][c]
+[O-][N+](=O)\C=C\c1ccc(C#N)cc1		E Parameter: -12.61	[O-][N+](=[OX1])[CX3H]=[CX3H][c]
+[O-][N+](=O)\C=C\c1ccc(OC)cc1		E Parameter: -14.70	[O-][N+](=[OX1])[CX3H]=[CX3H][c]
+[O-][N+](=O)\C=C\c1ccc(C)cc1		E Parameter: -14.23	[O-][N+](=[OX1])[CX3H]=[CX3H][c]
+[O-][N+](=O)\C=C\c1ccc(cc1)[N+]([O-])=O		E Parameter: -12.37	[O-][N+](=[OX1])[CX3H]=[CX3H][c]
+[O-][N+](=O)\C=C\c1ccccc1		E Parameter: -13.85	[O-][N+](=[OX1])[CX3H]=[CX3H][c]
+C1(=CC=CC=C1)C(\C=C\C1=CC=CC=C1)=O	DMSO	E Parameter: -19.39	[#6][CX3](=[OX1])[CX3H]=[CX3H][c]
+CC1=CC=C(C=C1)S(=O)(=O)\C=C\C1=CC=CC=C1	DMSO	E Parameter: -24.69	[#6][SX4](=[OX1])(=[OX1])[CX3H]=[CX3H][c]
+C(#N)C1=CC=C(C=C1)/C=C/C(=O)C1=CC=CC=C1	DMSO	E Parameter: -17.64	[#6][CX3](=[OX1])[CX3H]=[CX3H][c]
+[N+](=O)([O-])C1=CC=C(C=C1)/C=C/C(=O)C1=CC=CC=C1	DMSO	E Parameter: -17.33	[#6][CX3](=[OX1])[CX3H]=[CX3H][c]
+CC(C(/C=C/C1=CC=C(C=C1)[N+](=O)[O-])=O)(C)C	DMSO	E Parameter: -19.15	[#6][CX3](=[OX1])[CX3H]=[CX3H][c]
+CC(=O)\C=C\C1=CC=C(C=C1)[N+]([O-])=O	DMSO	E Parameter: -19.36	[#6][CX3](=[OX1])[CX3H]=[CX3H][c]
+CC(C(/C=C/C1=CC=C(C=C1)[N+](=O)[O-])=O)C	DMSO	E Parameter: -19.17	[#6][CX3](=[OX1])[CX3H]=[CX3H][c]
+C1(=CC=CC=C1)/C=C/C(C)=O	DMSO	E Parameter: -23.01	[#6][CX3](=[OX1])[CX3H]=[CX3H][c]
+C1(=CC=CC=C1)C(C=C)=O	DMSO	E Parameter: -15.25	[#6][CX3](=[OX1])[CX3H]=[CX3H2]
+CN(C1=CC=C(C=C2C(C3=CC=CC=C3C2=O)=O)C=C1)C	0	E Parameter: -13.56	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+COC1=CC=C(C=C2C(C3=CC=CC=C3C2=O)=O)C=C1	0	E Parameter: -11.32	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+C(C1=CC=CC=C1)=C1C(C2=CC=CC=C2C1=O)=O	0	E Parameter: -10.11	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+CC=1C(CCCC1)=O	DMSO	E Parameter: -27.50	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3]([CX4])=[CX3H][CX4]
+CC=1C(CCC1)=O	DMSO	E Parameter: -22.10	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3]([CX4])=[CX3H][CX4]
+C1(=CC=CC=C1)C=CS(=O)(=O)F	DMSO	E Parameter: -16.63	[F][SX4](=[OX1])(=[OX1])[CX3H]=[CX3H][c]
+CC1=CC(CCC1)=O	DMSO	E Parameter: -29.60	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3]([CX4])[CX4]
+CC1=CC(CC1)=O	DMSO	E Parameter: -28.90	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3]([CX4])[CX4]
+C=C1C(OCC1)=O	DMSO	E Parameter: -19.40	[#6,$([OX2][CX4,c])][CX3](=[OX1])[CX3]([CX4,c])=[CX3H2]
+C=C1C(OCCC1)=O	DMSO	E Parameter: -19.50	[#6,$([OX2][CX4,c])][CX3](=[OX1])[CX3]([CX4,c])=[CX3H2]
+C1(=CC=CC=C1)C#CC(C)=O	0	E Parameter: -16.90	[#6][CX3](=[OX1])[CX2]#[CX2][CX4,c]
+C(C=C)#N	DMSO	E Parameter: -19.05	[NX1]#[CX2][CX3H]=[CX3H2]
+COc1ccc(C=C2C(=O)N(C)C(=O)N(C)C2=O)cc1	0	E Parameter: -10.37	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+CC1(C)OC(=O)C(=Cc2ccccc2)C(=O)O1	0	E Parameter: -9.15	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+C(C1=CC=CC=C1)=C(C#N)C#N	0	E Parameter: -9.42	[NX1]#[CX2][CX3]([CX2]#[NX1])=[CX3][CX4,c]
+CC(C=C)=O	DMSO	E Parameter: -16.76	[#6][CX3](=[OX1])[CX3H]=[CX3H2]
+CC(C#C)=O	0	E Parameter: -16.60	[#6][CX3](=[OX1])[CX2]#[CX2H]
+C(C=CC1=CC=CC=C1)#N	DMSO	E Parameter: -24.60	[NX1]#[CX2][CX3H]=[CX3][c]
+C1(C=CCCCC1)=O	DMSO	E Parameter: -22.00	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H][CX4]
+C1(C=CCCC1)=O	DMSO	E Parameter: -22.10	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H][CX4]
+C1(C=CCC1)=O	DMSO	E Parameter: -20.60	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H][CX4]
+C(\C=C\C(=O)OCC)(=O)OCC	DMSO	E Parameter: -17.79	[#6,OX2,SX2,NX3][CX3](=[OX1])[CX3H]=[CX3H][CX3](=[OX1])[#6,OX2,SX2,NX3]
+C(\C=C/C(=O)OCC)(=O)OCC	DMSO	E Parameter: -19.49	[#6,OX2,SX2,NX3][CX3](=[OX1])[CX3H]=[CX3H][CX3](=[OX1])[#6,OX2,SX2,NX3]
+O=C1OCCC=C1	DMSO	E Parameter: -21.80	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H][CX4]
+CN(C)c1ccc(C=C2C(=O)N(C)C(=S)N(C)C2=O)cc1	0	E Parameter: -10.73	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+CN(C)c1ccc(C=C2C(=O)N(C)C(=O)N(C)C2=O)cc1	0	E Parameter: -12.76	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+FS(=O)(=O)C=C	DMSO	E Parameter: -12.09	[F][SX4](=[OX1])(=[OX1])[CX3H]=[CX3H2]
+C(=C)S(=O)(=O)C1=CC=CC=C1	DMSO	E Parameter: -18.36	[#6][SX4](=[OX1])(=[OX1])[CX3H]=[CX3H2]
+C(\C=C\C)(=O)OCC	DMSO	E Parameter: -23.59	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H][CX4]
+CC(C(=O)OCC)=C	DMSO	E Parameter: -22.77	[#6,$([OX2][CX4,c])][CX3](=[OX1])[CX3]([CX4,c])=[CX3H2]
+C(C=CC1=CC=CC=C1)(=O)OCC	DMSO	E Parameter: -24.52	[$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H][c]
+C(C=C)(=O)OCC	DMSO	E Parameter: -19.07	[$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H2]
+C(\C=C\C#N)#N	DMSO	E Parameter: -15.71	[NX1]#[CX2][CX3H]=[CX3H][CX2]#[NX1]
+O1C(C=CC1)=O	DMSO	E Parameter: -20.70	[CX4,$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H][CX4]
+CC(C#CCC)=O	0	E Parameter: -17.90	[#6][CX3](=[OX1])[CX2]#[CX2][CX4,c]
+CC1(C)OC(=O)C(=Cc2cc3CCCN4CCCc(c2)c34)C(=O)O1	0	E Parameter: -13.97	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+CN1C(=S)N(C)C(=O)C(=Cc2cc3CCCN4CCCc(c2)c34)C1=O	0	E Parameter: -11.89	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+O=C1C(=Cc2cc3CCCN4CCCc(c2)c34)C(=O)c2ccccc12	0	E Parameter: -14.68	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+CN1C(=O)N(C)C(=O)C(=Cc2cc3CCCN4CCCc(c2)c34)C1=O	0	E Parameter: -13.84	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+C1(\C=C/C(=O)O1)=O	DMSO	E Parameter: -11.31	[OX1]=[CX3]1[OX2][CX3](=[OX1])[CX3H]=[CX3H]1
+C(C=C)(=O)OC	DMSO	E Parameter: -18.84	[$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H2]
+CN(C(C=C)=O)C	DMSO	E Parameter: -23.54	[$([NX3H]([CX3])[CX4,c]),$([NX3]([CX3])([CX4,c])[CX4,c]),$([NX3H2][CX3])][CX3](=[OX1])[CX3H]=[CX3H2]
+CN1C(C=CC1=O)=O	DMSO	E Parameter: -14.07	[OX1]=[CX3]1[NX3][CX3](=[OX1])[CX3H]=[CX3H]1
+CN(C)c1ccc(C=C2C(=O)OC(C)(C)OC2=O)cc1	0	E Parameter: -12.76	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+CN(C1=CC=C(C=C(C#N)C#N)C=C1)C	0	E Parameter: -13.30	[NX1]#[CX2][CX3]([CX2]#[NX1])=[CX3][CX4,c]
+COc1ccc(C=C2C(=O)OC(C)(C)OC2=O)cc1	0	E Parameter: -10.28	[OX1,SX1]=[CX3][CX3]([CX3]=[OX1,SX1])=[CX3][CX4,c]
+COC1=CC=C(C=C(C#N)C#N)C=C1	0	E Parameter: -10.80	[NX1]#[CX2][CX3]([CX2]#[NX1])=[CX3][CX4,c]
+C(C=C)(=O)OC(C)(C)C	DMSO	E Parameter: -20.22	[$([OX2][CX4,c])][CX3](=[OX1])[CX3H]=[CX3H2]
+ClC1=CC=C(C=[O+][La])C=C1		E Parameter: 1.44	[#6][CX3H]=[OX2+]
+ClC1=CC=C(C=[OH+])C=C1		E Parameter: 1.44	[#6][CX3H]=[OX2+]
+C(C1=CC=CC=C1)=O	DMSO	E Parameter: -12.90	[#6][CX3H]=[OX1]
+C(C1=CC=CC=C1)=[O+][La]		E Parameter: 1.12	[#6][CX3H]=[OX2+]
+C(C1=CC=CC=C1)=[OH+]		E Parameter: 1.12	[#6][CX3H]=[OX2+]
+C(=S)=S	DMSO	E Parameter: -17.70	[SX1,OX1]=[CX2]=[SX1,OX1]
+C(=O)=O	DMSO	E Parameter: -16.3	[SX1,OX1]=[CX2]=[SX1,OX1]
+C1(=CC=CC=C1)N=C=NC1=CC=CC=C1	DMSO	E Parameter: -20.14	[c][NX2]=[CX2]=[NX2][c]
+C1(CCCCC1)N=C=NC1CCCCC1	DMSO	E Parameter: -30	[CX4][NX2]=[CX2]=[NX2][CX4]
+[N+](=O)([O-])C1=CC=C(C=C1)N=C=S	DMSO	E Parameter: -15.89	[c][NX2]=[CX2]=[SX1]
+CC1=CC=C(C=C1)S(=C)(=O)N=C=S	MeCN	E Parameter: -7.69	[c][SX4][NX2]=[CX2]=[SX1]
+C1(=CC=CC=C1)N=C=O	MeCN	E Parameter: -15.38	[c][NX2]=[CX2]=[OX1]
+C1(=CC=CC=C1)N=C=S	DMSO	E Parameter: -18.15	[c][NX2]=[CX2]=[SX1]
+CN(C1=CC=C(C=NS(=O)(=O)C2=CC=C(C=C2)C)C=C1)C	DMSO	E Parameter: -15.09	[c][CX3H]=[NX2][SX4](=[OX1])(=[OX1])[#6]
+COC1=CC=C(C=NS(=O)(=O)C2=CC=C(C=C2)C)C=C1	DMSO	E Parameter: -13.05	[c][CX3H]=[NX2][SX4](=[OX1])(=[OX1])[#6]
+C(C1=CC=CC=C1)=NS(=O)(=O)C1=CC=C(C=C1)C	DMSO	E Parameter: -11.50	[c][CX3H]=[NX2][SX4](=[OX1])(=[OX1])[#6]
+C(C1=CC=CC=C1)=NP(=O)(C1=CC=CC=C1)C1=CC=CC=C1	DMSO	E Parameter: -15.89	[c][CX3H]=[NX2][PX4](=[OX1])([#6])[#6]
+C(C1=CC=CC=C1)=NC(OC(C)(C)C)=O	DMSO	E Parameter: -14.22	[c][CX3H]=[NX2][CX3](=[OX1])[OX2][#6]
+O1CCOC12CCC(CC2)=O	DMSO	E Parameter: -18.20	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+CN1CCC(CC1)=O	DMSO	E Parameter: -18.40	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+CSCC(C)=O	DMSO	E Parameter: -15.60	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+C1(CCC1)=O	DMSO	E Parameter: -17.50	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+C1(CCCCCC1)=O	DMSO	E Parameter: -22.10	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+C1(CCCCC1)=O	DMSO	E Parameter: -19.90	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+C1(CCCC1)=O	DMSO	E Parameter: -21.00	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+O1CCC(CC1)=O	DMSO	E Parameter: -17.90	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+CC(CCC)=O	DMSO	E Parameter: -22.30	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+S1CCC(CC1)=O	DMSO	E Parameter: -16.90	[CX4H2,CX4H3][CX3](=[OX1])[CX4H2,CX4H3]
+CC(=O)C(CO)(CO)[N+](=O)[O-]		E Parameter: -22	[CX4H2,CX4H3][CX3R0](=[OX1])[CX4]([CX4])([CX4])[N+](=[OX1])[OX1-]
+C#CCN=C(C(=O)c1ccc(C)cc1)c1ccc(C)cc1		E Parameter: -8	[CX4,c][CX3](=[OX1])[CX3]=[OX1,NX2]
+Cc1ccc(cc1)C(=O)C(F)(F)F		E Parameter: -10	[CX4,c][CX3](=[OX1])[CX4]([F])([F])[F]
+C=O		E Parameter: -6	[CX3H2]=[OX1]
+[N-]=[N+]=Nc1ccccc1C=[NH2+]		E Parameter: -3	[NX3H2+]=[CX3H][#6]
+[NH2+]=C1CCN(Cc2ccccc2)CC1		E Parameter: -6	[NX3H2+]=[CX3]([#6])[#6]
+CC(CC(=O)O)=[NH+]Cc1ccco1		E Parameter: -12	[CX4,c][NX3H+]=[CX3]([#6])[#6]
+CC(C)=[N+]1CCCCC1		E Parameter: -19	[CX4,c][NX3+]([CX4,c])=[CX3]([#6])[#6]
+CC(C)C=Nc1ccccc1C(=O)O		E Parameter: -17	[CX4,c][NX2]=[CX3][#6]
+[OH+]=C1CCN(Cc2ccccc2)CC1		E Parameter: -10	[CX4,c][CX3](=[OH+])[CX4!H0,c]
+N=Cc1ccccc1N=[N+]=[N-]		E Parameter: -10	[NX2H]=[CX3][#6]
+CC1CO1		E Parameter: -21	[CX4,c][CX4H]1[OX2][CX4H2]1.[CX4,c][CX4]([CX4,c])1[OX2][CX4H2]1
+CC1C[OH+]1		E Parameter: -16	[CX4,c][CX4H]1[OX3+][CX4H2]1.[CX4,c][CX4]([CX4,c])1[OX3+][CX4H2]1
+CC(=O)Cl		E Parameter: 2	[#6][CX3](=[OX1])[Cl,Br]
+CN1C(=O)c2ccccc2C1C(=O)C#N		E Parameter: -7	[#6][CX3](=[OX1])[CX2]#[NX1]
+CCOC(=O)C(C(O)C=C)C(=O)OCC		E Parameter: -26	[#6][CX3](=[OX1])[OX2][CX4H2,CX4H3]
+CC(C#[N+]C1CCCCC1)C(C#N)C(=O)O		E Parameter: 3	[CX4,c,$([CX3]([NX2+])=[CX3])][NX2+]#[CX2][CX4,c]
+c1ccccc#1		E Parameter: 8	c1ccccc#1

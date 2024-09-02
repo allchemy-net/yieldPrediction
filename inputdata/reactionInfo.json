@@ -11,7 +11,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx83": {
       "byproducts": "-",
@@ -24,7 +27,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx296": {
       "byproducts": "-",
@@ -37,7 +43,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx480": {
       "byproducts": "O.[Na+];;;[Na+].[H][H]",
@@ -50,7 +59,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx244": {
       "byproducts": "O.[Na+];;;[Na+].[H][H]",
@@ -63,7 +75,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx96": {
       "byproducts": "O.[Na+];;;[Na+].[H][H]",
@@ -76,7 +91,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx472": {
       "byproducts": "OC([O-])=O.[K+].[K+]",
@@ -89,7 +107,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx315": {
       "byproducts": "OC([O-])=O.[K+].[K+]",
@@ -102,7 +123,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx200": {
       "byproducts": "OC([O-])=O.[K+].[K+]",
@@ -115,7 +139,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx76": {
       "byproducts": "OS(O)(=O)=O",
@@ -128,7 +155,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.rt",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx317": {
       "byproducts": "OS(O)(=O)=O",
@@ -141,7 +171,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx334": {
       "byproducts": "OS(O)(=O)=O",
@@ -154,7 +187,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.rt",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx386": {
       "byproducts": "OS(O)(=O)=O",
@@ -167,7 +203,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.rt",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx309": {
       "byproducts": "OS(O)(=O)=O.[O-]S([O-])(=O)=O.[Mg++]",
@@ -180,7 +219,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx336": {
       "byproducts": "OS(O)(=O)=O.[O-]S([O-])(=O)=O.[Mg++]",
@@ -193,7 +235,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx431": {
       "byproducts": "[Na+].O.O=C=O",
@@ -206,7 +251,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx398": {
       "byproducts": "-",
@@ -219,7 +267,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx168": {
       "byproducts": "-",
@@ -232,7 +283,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx331": {
       "byproducts": "-",
@@ -245,7 +299,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx241": {
       "byproducts": "-",
@@ -258,7 +315,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx92": {
       "byproducts": "CC[NH+](CC)CC",
@@ -271,7 +331,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx428": {
       "byproducts": "CC[NH+](CC)CC",
@@ -284,7 +347,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx493": {
       "byproducts": "CC[NH+](CC)CC",
@@ -297,7 +363,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx124": {
       "byproducts": "C1CCNCC1;;;[K+].OC([O-])=O",
@@ -310,7 +379,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "complex"
     },
     "rx159": {
       "byproducts": "[K+].OC([O-])=O",
@@ -323,7 +395,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "complex"
     },
     "rx214": {
       "byproducts": "C1CCNCC1;;;[K+].OC([O-])=O",
@@ -336,7 +411,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "complex"
     },
     "rx490": {
       "byproducts": "C1CCNCC1;;;[K+].OC([O-])=O",
@@ -349,7 +427,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "complex"
     },
     "rx256": {
       "byproducts": "OC([O-])=O.[K+].[K+]",
@@ -362,7 +443,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx78": {
       "byproducts": "OC([O-])=O.[K+].[K+]",
@@ -375,7 +459,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx416": {
       "byproducts": "OC([O-])=O.[K+].[K+]",
@@ -388,7 +475,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx297": {
       "byproducts": "OC([O-])=O.[K+].[K+]",
@@ -401,7 +491,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx445": {
       "byproducts": "CC(C)(C)O.[K+];;;CCCC.[Li+]",
@@ -414,7 +507,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx359": {
       "byproducts": "CC(C)(C)O.[K+];;;[H][N+]1=C2CCCCCN2CCC1",
@@ -427,7 +523,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx193": {
       "byproducts": "CC(C)NC(C)C.[Li+].CN(C)P(=O)(N(C)C)N(C)C",
@@ -440,7 +539,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx503": {
       "byproducts": "-",
@@ -453,7 +555,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx147": {
       "byproducts": "-",
@@ -466,7 +571,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx79": {
       "byproducts": "-",
@@ -479,7 +587,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx176": {
       "byproducts": "-",
@@ -492,7 +603,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx457": {
       "byproducts": "-",
@@ -505,7 +619,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx395": {
       "byproducts": "-",
@@ -518,7 +635,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx362": {
       "byproducts": "-",
@@ -531,7 +651,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx291": {
       "byproducts": "-",
@@ -544,7 +667,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx167": {
       "byproducts": "[H][N+]1([H])CCCCC1;;;[NH4+].CC(=O)O",
@@ -557,7 +683,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx94": {
       "byproducts": "[Na+].O;;;O",
@@ -570,7 +699,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx243": {
       "byproducts": "-",
@@ -583,7 +715,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx321": {
       "byproducts": "-",
@@ -596,7 +731,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx446": {
       "byproducts": "C1C[NH+]=C2CCCCCN2C1",
@@ -609,7 +747,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx220": {
       "byproducts": "C1C[NH+]=C2CCCCCN2C1",
@@ -622,7 +763,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx11": {
       "byproducts": "CCN(CC)CC",
@@ -635,7 +779,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx356": {
       "byproducts": "CCN(CC)CC",
@@ -648,7 +795,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx420": {
       "byproducts": "Cl",
@@ -661,7 +811,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx25": {
       "byproducts": "CC(=O)[O-]",
@@ -674,7 +827,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx417": {
       "byproducts": "CC(=O)[O-]",
@@ -687,7 +843,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx180": {
       "byproducts": "CC(=O)O",
@@ -700,7 +859,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx298": {
       "byproducts": "CC(=O)O",
@@ -713,7 +875,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx148": {
       "byproducts": "CC(=O)[O-]",
@@ -726,7 +891,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx281": {
       "byproducts": "CC(=O)[O-]",
@@ -739,7 +907,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx247": {
       "byproducts": "CC(=O)O",
@@ -752,7 +923,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx77": {
       "byproducts": "-",
@@ -765,7 +939,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx64": {
       "byproducts": "OS(=O)(=O)[O-]",
@@ -778,7 +955,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx104": {
       "byproducts": "OS(=O)(=O)[O-]",
@@ -791,7 +971,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx255": {
       "byproducts": "OS(=O)(=O)[O-]",
@@ -804,7 +987,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx471": {
       "byproducts": "-",
@@ -817,7 +1003,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx157": {
       "byproducts": "-",
@@ -830,7 +1019,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx73": {
       "byproducts": "-",
@@ -843,7 +1035,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx456": {
       "byproducts": "-",
@@ -856,7 +1051,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx161": {
       "byproducts": "-",
@@ -869,7 +1067,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx497": {
       "byproducts": "-",
@@ -882,7 +1083,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx486": {
       "byproducts": "-",
@@ -895,7 +1099,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx143": {
       "byproducts": "",
@@ -908,7 +1115,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx46": {
       "byproducts": "-",
@@ -921,7 +1131,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx412": {
       "byproducts": "-",
@@ -934,7 +1147,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx435": {
       "byproducts": "-",
@@ -947,7 +1163,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx351": {
       "byproducts": "-",
@@ -960,7 +1179,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx184": {
       "byproducts": "-",
@@ -973,7 +1195,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx35": {
       "byproducts": "-",
@@ -986,7 +1211,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx488": {
       "byproducts": "-",
@@ -999,7 +1227,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx421": {
       "byproducts": "-",
@@ -1012,7 +1243,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx269": {
       "byproducts": "-",
@@ -1025,7 +1259,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx145": {
       "byproducts": "-",
@@ -1038,7 +1275,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx350": {
       "byproducts": "-",
@@ -1051,7 +1291,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx511": {
       "byproducts": "-",
@@ -1064,7 +1307,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx347": {
       "byproducts": "-",
@@ -1077,7 +1323,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx289": {
       "byproducts": "-",
@@ -1090,7 +1339,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx136": {
       "byproducts": "-",
@@ -1103,7 +1355,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx374": {
       "byproducts": "-",
@@ -1116,7 +1371,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx57": {
       "byproducts": "[Na+].CC(=O)O",
@@ -1129,7 +1387,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx381": {
       "byproducts": "[Na+].CC(=O)O",
@@ -1142,7 +1403,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx216": {
       "byproducts": "[Na+].CC(=O)O",
@@ -1155,7 +1419,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx257": {
       "byproducts": "[Na+].CC(=O)O",
@@ -1168,7 +1435,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx213": {
       "byproducts": "",
@@ -1181,7 +1451,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx514": {
       "byproducts": "",
@@ -1194,7 +1467,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx13": {
       "byproducts": "",
@@ -1207,7 +1483,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx236": {
       "byproducts": "",
@@ -1220,7 +1499,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx498": {
       "byproducts": "",
@@ -1233,7 +1515,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx239": {
       "byproducts": "",
@@ -1246,7 +1531,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx190": {
       "byproducts": "",
@@ -1259,7 +1547,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx348": {
       "byproducts": "",
@@ -1272,7 +1563,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx218": {
       "byproducts": "",
@@ -1285,7 +1579,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx125": {
       "byproducts": "",
@@ -1298,7 +1595,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx300": {
       "byproducts": "",
@@ -1311,7 +1611,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx360": {
       "byproducts": "",
@@ -1324,7 +1627,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx384": {
       "byproducts": "",
@@ -1337,7 +1643,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx58": {
       "byproducts": "",
@@ -1350,7 +1659,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx287": {
       "byproducts": "",
@@ -1363,7 +1675,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx433": {
       "byproducts": "",
@@ -1376,7 +1691,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx120": {
       "byproducts": "",
@@ -1389,7 +1707,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx461": {
       "byproducts": "",
@@ -1402,7 +1723,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx231": {
       "byproducts": "",
@@ -1415,7 +1739,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx197": {
       "byproducts": "",
@@ -1428,7 +1755,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx115": {
       "byproducts": "",
@@ -1441,7 +1771,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx205": {
       "byproducts": "CCCC.[Li+];;;CC(C)NC(C)C.[Li+]",
@@ -1454,7 +1787,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "VL",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx340": {
       "byproducts": "",
@@ -1467,7 +1803,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "VL",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx126": {
       "byproducts": "",
@@ -1480,7 +1819,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx53": {
       "byproducts": "[Na+].[H][H];;;CCCC.[Li+]",
@@ -1493,7 +1835,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx206": {
       "byproducts": "CCCC.[Li+];;;[H][N+]1=C2CCCCCN2CCC1",
@@ -1506,7 +1851,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx302": {
       "byproducts": "",
@@ -1519,7 +1867,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx51": {
       "byproducts": "",
@@ -1532,7 +1883,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx142": {
       "byproducts": "Cl[Al](Cl)Cl",
@@ -1545,7 +1899,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx217": {
       "byproducts": "",
@@ -1558,7 +1915,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx250": {
       "byproducts": "",
@@ -1571,7 +1931,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx118": {
       "byproducts": "",
@@ -1584,7 +1947,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx127": {
       "byproducts": "",
@@ -1597,7 +1963,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx491": {
       "byproducts": "",
@@ -1610,7 +1979,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx463": {
       "byproducts": "",
@@ -1623,7 +1995,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx56": {
       "byproducts": "",
@@ -1636,7 +2011,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx37": {
       "byproducts": "",
@@ -1649,7 +2027,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx224": {
       "byproducts": "",
@@ -1662,7 +2043,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx440": {
       "byproducts": "",
@@ -1675,7 +2059,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx387": {
       "byproducts": "O=P(N(C)C)(N(C)C)N(C)C",
@@ -1688,7 +2075,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx515": {
       "byproducts": "",
@@ -1701,7 +2091,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx146": {
       "byproducts": "",
@@ -1714,7 +2107,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx202": {
       "byproducts": "",
@@ -1727,7 +2123,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx371": {
       "byproducts": "",
@@ -1740,7 +2139,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx63": {
       "byproducts": "",
@@ -1753,7 +2155,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx215": {
       "byproducts": "",
@@ -1766,7 +2171,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx405": {
       "byproducts": "",
@@ -1779,7 +2187,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx270": {
       "byproducts": "",
@@ -1792,7 +2203,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx308": {
       "byproducts": "",
@@ -1805,7 +2219,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx271": {
       "byproducts": "",
@@ -1818,7 +2235,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx517": {
       "byproducts": "",
@@ -1831,7 +2251,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx100": {
       "byproducts": "",
@@ -1844,7 +2267,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx10": {
       "byproducts": "",
@@ -1857,7 +2283,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx366": {
       "byproducts": "",
@@ -1870,7 +2299,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx122": {
       "byproducts": "",
@@ -1883,7 +2315,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx406": {
       "byproducts": "",
@@ -1896,7 +2331,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx149": {
       "byproducts": "",
@@ -1909,7 +2347,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx95": {
       "byproducts": "",
@@ -1922,7 +2363,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx28": {
       "byproducts": "",
@@ -1935,7 +2379,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.L.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx225": {
       "byproducts": "",
@@ -1948,7 +2395,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx109": {
       "byproducts": "",
@@ -1961,7 +2411,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx44": {
       "byproducts": "",
@@ -1974,7 +2427,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx254": {
       "byproducts": "",
@@ -1987,7 +2443,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx108": {
       "byproducts": "",
@@ -2000,7 +2459,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx323": {
       "byproducts": "",
@@ -2013,7 +2475,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx106": {
       "byproducts": "",
@@ -2026,7 +2491,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L+rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx151": {
       "byproducts": "",
@@ -2039,7 +2507,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L+rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx80": {
       "byproducts": "",
@@ -2052,7 +2523,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx185": {
       "byproducts": "",
@@ -2065,7 +2539,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx135": {
       "byproducts": "",
@@ -2078,7 +2555,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx139": {
       "byproducts": "",
@@ -2091,7 +2571,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx464": {
       "byproducts": "",
@@ -2104,7 +2587,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx48": {
       "byproducts": "",
@@ -2117,7 +2603,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx310": {
       "byproducts": "",
@@ -2130,7 +2619,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx447": {
       "byproducts": "",
@@ -2143,7 +2635,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx191": {
       "byproducts": "",
@@ -2156,7 +2651,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx345": {
       "byproducts": "",
@@ -2169,7 +2667,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx307": {
       "byproducts": "[K+].[K+].OC(=O)[O-]",
@@ -2182,7 +2683,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx242": {
       "byproducts": "",
@@ -2195,7 +2699,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx402": {
       "byproducts": "",
@@ -2208,7 +2715,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx354": {
       "byproducts": "",
@@ -2221,7 +2731,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx129": {
       "byproducts": "",
@@ -2234,7 +2747,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx71": {
       "byproducts": "",
@@ -2247,7 +2763,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.L",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx232": {
       "byproducts": "",
@@ -2260,7 +2779,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx166": {
       "byproducts": "",
@@ -2273,7 +2795,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx111": {
       "byproducts": "",
@@ -2286,7 +2811,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx499": {
       "byproducts": "",
@@ -2299,7 +2827,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx512": {
       "byproducts": "",
@@ -2312,7 +2843,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx12": {
       "byproducts": "",
@@ -2325,7 +2859,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx101": {
       "byproducts": "",
@@ -2338,7 +2875,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx467": {
       "byproducts": "",
@@ -2351,7 +2891,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx91": {
       "byproducts": "",
@@ -2364,7 +2907,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx186": {
       "byproducts": "OC(C)(C)C.[K+]",
@@ -2377,7 +2923,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx434": {
       "byproducts": "OC(C)(C)C.[K+]",
@@ -2390,7 +2939,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx140": {
       "byproducts": "",
@@ -2403,7 +2955,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx423": {
       "byproducts": "",
@@ -2416,7 +2971,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx455": {
       "byproducts": "",
@@ -2429,7 +2987,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx219": {
       "byproducts": "",
@@ -2442,7 +3003,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx364": {
       "byproducts": "",
@@ -2455,7 +3019,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx235": {
       "byproducts": "",
@@ -2468,7 +3035,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx228": {
       "byproducts": "",
@@ -2481,7 +3051,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx82": {
       "byproducts": "",
@@ -2494,7 +3067,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx358": {
       "byproducts": "",
@@ -2507,7 +3083,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx116": {
       "byproducts": "",
@@ -2520,7 +3099,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx156": {
       "byproducts": "",
@@ -2533,7 +3115,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx482": {
       "byproducts": "",
@@ -2546,7 +3131,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx379": {
       "byproducts": "",
@@ -2559,7 +3147,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx60": {
       "byproducts": "",
@@ -2572,7 +3163,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx304": {
       "byproducts": "",
@@ -2585,7 +3179,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx443": {
       "byproducts": "",
@@ -2598,7 +3195,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx278": {
       "byproducts": "",
@@ -2611,7 +3211,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx81": {
       "byproducts": "",
@@ -2624,7 +3227,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx154": {
       "byproducts": "",
@@ -2637,7 +3243,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.VL",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx324": {
       "byproducts": "",
@@ -2650,7 +3259,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx382": {
       "byproducts": "",
@@ -2663,7 +3275,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx181": {
       "byproducts": "",
@@ -2676,7 +3291,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx155": {
       "byproducts": "",
@@ -2689,7 +3307,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx459": {
       "byproducts": "",
@@ -2702,7 +3323,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx20": {
       "byproducts": "",
@@ -2715,7 +3339,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx476": {
       "byproducts": "",
@@ -2728,7 +3355,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx267": {
       "byproducts": "[Li+].CC(C)NC(C)C;;;C1C[NH+]=C2CCCCCN2C1",
@@ -2741,7 +3371,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx98": {
       "byproducts": "[Li+].CC(C)NC(C)C;;;C[Si](C)(C)N[Si](C)(C)C.[Na+];;;C1C[NH+]=C2CCCCCN2C1",
@@ -2754,7 +3387,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx439": {
       "byproducts": "[Li+].CC(C)NC(C)C;;;C1C[NH+]=C2CCCCCN2C1",
@@ -2767,7 +3403,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx437": {
       "byproducts": "[Li+].CCCC;;;[Na+].[H][H]",
@@ -2780,7 +3419,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx523": {
       "byproducts": "[Na+].[H][H];;;[Li+].CC(C)NC(C)C",
@@ -2793,7 +3435,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx502": {
       "byproducts": "",
@@ -2806,7 +3451,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx484": {
       "byproducts": "",
@@ -2819,7 +3467,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.RT.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx397": {
       "byproducts": "[K+].OC([O-])=O",
@@ -2832,7 +3483,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.RT.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx470": {
       "byproducts": "",
@@ -2845,7 +3499,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx199": {
       "byproducts": "",
@@ -2858,7 +3515,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx144": {
       "byproducts": "",
@@ -2871,7 +3531,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx179": {
       "byproducts": "[Li+].CC(C)NC(C)C",
@@ -2884,7 +3547,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx319": {
       "byproducts": "-",
@@ -2897,7 +3563,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx458": {
       "byproducts": "-",
@@ -2910,7 +3579,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx525": {
       "byproducts": "-",
@@ -2923,7 +3595,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx390": {
       "byproducts": "-",
@@ -2936,7 +3611,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx372": {
       "byproducts": "-",
@@ -2949,7 +3627,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx117": {
       "byproducts": "-",
@@ -2962,7 +3643,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx260": {
       "byproducts": "CCCC[N+](CCCC)(CCCC)CCCC;;;[Cs+]",
@@ -2975,7 +3659,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx322": {
       "byproducts": "-",
@@ -2988,7 +3675,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx407": {
       "byproducts": "-",
@@ -3001,7 +3691,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx330": {
       "byproducts": "-",
@@ -3014,7 +3707,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx276": {
       "byproducts": "[Na+].C[Si](C)(C)N[Si](C)(C)C",
@@ -3027,7 +3723,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx418": {
       "byproducts": "[K+].[H][H]",
@@ -3040,7 +3739,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.VH.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx492": {
       "byproducts": "[K+].[H][H]",
@@ -3053,7 +3755,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.VH.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx521": {
       "byproducts": "-",
@@ -3066,7 +3771,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx388": {
       "byproducts": "-",
@@ -3079,7 +3787,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx196": {
       "byproducts": "Cl[Ti](Cl)(Cl)Cl.OC(=O)C(F)(F)F;;;Cl[Ti](Cl)(Cl)Cl",
@@ -3092,7 +3803,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx520": {
       "byproducts": "CCN(CC)CC;;;c1ccncc1",
@@ -3105,7 +3819,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx173": {
       "byproducts": "-",
@@ -3118,7 +3835,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx454": {
       "byproducts": "-",
@@ -3131,7 +3851,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx279": {
       "byproducts": "-",
@@ -3144,7 +3867,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx444": {
       "byproducts": "-",
@@ -3157,7 +3883,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx61": {
       "byproducts": "-",
@@ -3170,7 +3899,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx90": {
       "byproducts": "-",
@@ -3183,7 +3915,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx383": {
       "byproducts": "-",
@@ -3196,7 +3931,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx494": {
       "byproducts": "-",
@@ -3209,7 +3947,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx55": {
       "byproducts": "-",
@@ -3222,7 +3963,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx316": {
       "byproducts": "-",
@@ -3235,7 +3979,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx40": {
       "byproducts": "-",
@@ -3248,7 +3995,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx138": {
       "byproducts": "-",
@@ -3261,7 +4011,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx87": {
       "byproducts": "-",
@@ -3274,7 +4027,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx392": {
       "byproducts": "-",
@@ -3287,7 +4043,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx114": {
       "byproducts": "-",
@@ -3300,7 +4059,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx369": {
       "byproducts": "-",
@@ -3313,7 +4075,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx394": {
       "byproducts": "-",
@@ -3326,7 +4091,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx496": {
       "byproducts": "-",
@@ -3339,7 +4107,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx530": {
       "byproducts": "-",
@@ -3352,7 +4123,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx18": {
       "byproducts": "-",
@@ -3365,7 +4139,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx209": {
       "byproducts": "-",
@@ -3378,7 +4155,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx474": {
       "byproducts": "-",
@@ -3391,7 +4171,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx506": {
       "byproducts": "-",
@@ -3404,7 +4187,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx332": {
       "byproducts": "-",
@@ -3417,7 +4203,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx519": {
       "byproducts": "-",
@@ -3430,7 +4219,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx234": {
       "byproducts": "[Na+];;;[K+]",
@@ -3443,7 +4235,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx178": {
       "byproducts": "[Na+];;;[K+]",
@@ -3456,7 +4251,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx368": {
       "byproducts": "Cl;;;OS(=O)(=O)O",
@@ -3469,7 +4267,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx160": {
       "byproducts": "",
@@ -3482,7 +4283,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx353": {
       "byproducts": "-",
@@ -3495,7 +4299,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx261": {
       "byproducts": "-",
@@ -3508,7 +4315,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx15": {
       "byproducts": "-",
@@ -3521,7 +4331,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx408": {
       "byproducts": "-",
@@ -3534,7 +4347,10 @@
       "rxprotonic": "P",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx133": {
       "byproducts": "-;;;[La];;;CCN(CC)CC",
@@ -3547,7 +4363,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx333": {
       "byproducts": "-",
@@ -3560,7 +4379,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx375": {
       "byproducts": "-",
@@ -3573,7 +4395,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "rt",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx363": {
       "byproducts": "-",
@@ -3586,7 +4411,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P",
       "rxtemp": "rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx22": {
       "byproducts": "CC[NH+](CC)CC",
@@ -3599,7 +4427,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx21": {
       "byproducts": "CC[NH+](CC)CC",
@@ -3612,7 +4443,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx376": {
       "byproducts": "",
@@ -3625,7 +4459,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx313": {
       "byproducts": "Cc1ccc(cc1)S(O)(=O)=O",
@@ -3638,7 +4475,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx182": {
       "byproducts": "",
@@ -3651,7 +4491,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx105": {
       "byproducts": "",
@@ -3664,7 +4507,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx427": {
       "byproducts": "",
@@ -3677,7 +4523,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx466": {
       "byproducts": "",
@@ -3690,7 +4539,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx174": {
       "byproducts": "",
@@ -3703,7 +4555,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx201": {
       "byproducts": "",
@@ -3716,7 +4571,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx507": {
       "byproducts": "-",
@@ -3729,7 +4587,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx505": {
       "byproducts": "-",
@@ -3742,7 +4603,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx401": {
       "byproducts": "-",
@@ -3755,7 +4619,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx33": {
       "byproducts": "-",
@@ -3768,7 +4635,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx430": {
       "byproducts": "-",
@@ -3781,7 +4651,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx483": {
       "byproducts": "-",
@@ -3794,7 +4667,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx50": {
       "byproducts": "",
@@ -3807,7 +4683,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx27": {
       "byproducts": "",
@@ -3820,7 +4699,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx264": {
       "byproducts": "",
@@ -3833,7 +4715,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx449": {
       "byproducts": "",
@@ -3846,7 +4731,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "RT.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx451": {
       "byproducts": "",
@@ -3859,7 +4747,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx489": {
       "byproducts": "",
@@ -3872,7 +4763,10 @@
       "rxprotonic": "P",
       "rxpolar": "P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx203": {
       "byproducts": "",
@@ -3885,7 +4779,10 @@
       "rxprotonic": "P",
       "rxpolar": "P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx284": {
       "byproducts": "",
@@ -3898,7 +4795,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx452": {
       "byproducts": "",
@@ -3911,7 +4811,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx211": {
       "byproducts": "",
@@ -3924,7 +4827,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx529": {
       "byproducts": "",
@@ -3937,7 +4843,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx210": {
       "byproducts": "",
@@ -3950,7 +4859,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx259": {
       "byproducts": "",
@@ -3963,7 +4875,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx88": {
       "byproducts": "",
@@ -3976,7 +4891,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx252": {
       "byproducts": "",
@@ -3989,7 +4907,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx75": {
       "byproducts": "",
@@ -4002,7 +4923,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx223": {
       "byproducts": "",
@@ -4015,7 +4939,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx475": {
       "byproducts": "",
@@ -4028,7 +4955,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx280": {
       "byproducts": "",
@@ -4041,7 +4971,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx403": {
       "byproducts": "",
@@ -4054,7 +4987,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx377": {
       "byproducts": "",
@@ -4067,7 +5003,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx436": {
       "byproducts": "",
@@ -4080,7 +5019,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx339": {
       "byproducts": "Cc1ccc(cc1)S(O)(=O)=O",
@@ -4093,7 +5035,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx233": {
       "byproducts": "",
@@ -4106,7 +5051,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx93": {
       "byproducts": "",
@@ -4119,7 +5067,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx441": {
       "byproducts": "",
@@ -4132,7 +5083,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx226": {
       "byproducts": "",
@@ -4145,7 +5099,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx389": {
       "byproducts": "",
@@ -4158,7 +5115,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx69": {
       "byproducts": "",
@@ -4171,7 +5131,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx468": {
       "byproducts": "",
@@ -4184,7 +5147,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx314": {
       "byproducts": "",
@@ -4197,7 +5163,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx327": {
       "byproducts": "",
@@ -4210,7 +5179,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx367": {
       "byproducts": "",
@@ -4223,7 +5195,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx349": {
       "byproducts": "",
@@ -4236,7 +5211,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx49": {
       "byproducts": "",
@@ -4249,7 +5227,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx282": {
       "byproducts": "",
@@ -4262,7 +5243,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx131": {
       "byproducts": "",
@@ -4275,7 +5259,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx522": {
       "byproducts": "Cc1ccc(cc1)S(O)(=O)=O",
@@ -4288,7 +5275,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx245": {
       "byproducts": "Cc1ccc(cc1)S(O)(=O)=O",
@@ -4301,7 +5291,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx432": {
       "byproducts": "Cc1ccc(cc1)S(O)(=O)=O",
@@ -4314,7 +5307,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx222": {
       "byproducts": "",
@@ -4327,7 +5323,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx290": {
       "byproducts": "",
@@ -4340,7 +5339,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx293": {
       "byproducts": "",
@@ -4353,7 +5355,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx477": {
       "byproducts": "",
@@ -4366,7 +5371,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx26": {
       "byproducts": "",
@@ -4379,7 +5387,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx62": {
       "byproducts": "",
@@ -4392,7 +5403,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx393": {
       "byproducts": "",
@@ -4405,7 +5419,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx504": {
       "byproducts": "",
@@ -4418,7 +5435,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx453": {
       "byproducts": "",
@@ -4431,7 +5451,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx121": {
       "byproducts": "",
@@ -4444,7 +5467,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx378": {
       "byproducts": "",
@@ -4457,7 +5483,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx425": {
       "byproducts": "",
@@ -4470,7 +5499,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx150": {
       "byproducts": "",
@@ -4483,7 +5515,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx237": {
       "byproducts": "",
@@ -4496,7 +5531,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx357": {
       "byproducts": "",
@@ -4509,7 +5547,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx194": {
       "byproducts": "",
@@ -4522,7 +5563,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx123": {
       "byproducts": "",
@@ -4535,7 +5579,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx47": {
       "byproducts": "",
@@ -4548,7 +5595,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx85": {
       "byproducts": "OC(=O)C(F)(F)F",
@@ -4561,7 +5611,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx42": {
       "byproducts": "",
@@ -4574,7 +5627,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx301": {
       "byproducts": "",
@@ -4587,7 +5643,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx513": {
       "byproducts": "-",
@@ -4600,7 +5659,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx39": {
       "byproducts": "-",
@@ -4613,7 +5675,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx361": {
       "byproducts": "-",
@@ -4626,7 +5691,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx419": {
       "byproducts": "-",
@@ -4639,7 +5707,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx102": {
       "byproducts": "",
@@ -4652,7 +5723,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx295": {
       "byproducts": "",
@@ -4665,7 +5739,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx527": {
       "byproducts": "",
@@ -4678,7 +5755,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx152": {
       "byproducts": "",
@@ -4691,7 +5771,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx320": {
       "byproducts": "",
@@ -4704,7 +5787,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx68": {
       "byproducts": "",
@@ -4717,7 +5803,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx460": {
       "byproducts": "",
@@ -4730,7 +5819,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx251": {
       "byproducts": "",
@@ -4743,7 +5835,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx373": {
       "byproducts": "",
@@ -4756,7 +5851,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx67": {
       "byproducts": "",
@@ -4769,7 +5867,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx74": {
       "byproducts": "",
@@ -4782,7 +5883,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx41": {
       "byproducts": "",
@@ -4795,7 +5899,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx424": {
       "byproducts": "",
@@ -4808,7 +5915,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx414": {
       "byproducts": "",
@@ -4821,7 +5931,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx24": {
       "byproducts": "Cl",
@@ -4834,7 +5947,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx204": {
       "byproducts": "",
@@ -4847,7 +5963,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx249": {
       "byproducts": "",
@@ -4860,7 +5979,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx485": {
       "byproducts": "",
@@ -4873,7 +5995,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx59": {
       "byproducts": "",
@@ -4886,7 +6011,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx207": {
       "byproducts": "",
@@ -4899,7 +6027,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx305": {
       "byproducts": "",
@@ -4912,7 +6043,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx163": {
       "byproducts": "",
@@ -4925,7 +6059,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx141": {
       "byproducts": "",
@@ -4938,7 +6075,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx442": {
       "byproducts": "",
@@ -4951,7 +6091,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx380": {
       "byproducts": "",
@@ -4964,7 +6107,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx16": {
       "byproducts": "",
@@ -4977,7 +6123,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx268": {
       "byproducts": "",
@@ -4990,7 +6139,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx500": {
       "byproducts": "",
@@ -5003,7 +6155,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx29": {
       "byproducts": "OS(=O)(=O)[O-]",
@@ -5016,7 +6171,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx518": {
       "byproducts": "",
@@ -5029,7 +6187,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx112": {
       "byproducts": "",
@@ -5042,7 +6203,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx153": {
       "byproducts": "",
@@ -5055,7 +6219,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx326": {
       "byproducts": "",
@@ -5068,7 +6235,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx198": {
       "byproducts": "[Fe+3]",
@@ -5081,7 +6251,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx132": {
       "byproducts": "",
@@ -5094,7 +6267,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "complex"
     },
     "rx399": {
       "byproducts": "CC(=O)O;;;CC(=O)O.Cl",
@@ -5107,7 +6283,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx52": {
       "byproducts": "-",
@@ -5120,7 +6299,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx510": {
       "byproducts": "-;;;-",
@@ -5133,7 +6315,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx248": {
       "byproducts": "-;;;-",
@@ -5146,7 +6331,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx171": {
       "byproducts": "-",
@@ -5159,7 +6347,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx481": {
       "byproducts": "",
@@ -5172,7 +6363,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx524": {
       "byproducts": "-",
@@ -5185,7 +6379,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx335": {
       "byproducts": "",
@@ -5198,7 +6395,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.VH",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx97": {
       "byproducts": "-",
@@ -5211,7 +6411,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx325": {
       "byproducts": "",
@@ -5224,7 +6427,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx137": {
       "byproducts": "CC(C)(C)O.[K+];;;[H][N+]1=C2CCCCCN2CCC1",
@@ -5237,7 +6443,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx107": {
       "byproducts": "-",
@@ -5250,7 +6459,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx478": {
       "byproducts": "-",
@@ -5263,7 +6475,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx212": {
       "byproducts": "-",
@@ -5276,7 +6491,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx31": {
       "byproducts": "-",
@@ -5289,7 +6507,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx43": {
       "byproducts": "-",
@@ -5302,7 +6523,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx385": {
       "byproducts": "",
@@ -5315,7 +6539,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx221": {
       "byproducts": "[Li+]",
@@ -5328,7 +6555,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx70": {
       "byproducts": "[Li+]",
@@ -5341,7 +6571,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx292": {
       "byproducts": "-",
@@ -5354,7 +6587,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx246": {
       "byproducts": "-",
@@ -5367,7 +6603,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx487": {
       "byproducts": "-",
@@ -5380,7 +6619,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx195": {
       "byproducts": "c1cc[nH+]cc1",
@@ -5393,7 +6635,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx230": {
       "byproducts": "[Li+].[I-]",
@@ -5406,7 +6651,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx426": {
       "byproducts": "[Li+].[O-]S(=O)(=O)C(F)(F)F",
@@ -5419,7 +6667,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx303": {
       "byproducts": "[Li+].[I-]",
@@ -5432,7 +6683,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx450": {
       "byproducts": "[Li+].[O-]S(=O)(=O)C(F)(F)F",
@@ -5445,7 +6699,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx465": {
       "byproducts": "[Li+].CCCC;;;[Na+].[H][H]",
@@ -5458,7 +6715,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx262": {
       "byproducts": "[Na+].[H][H]",
@@ -5471,7 +6731,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx329": {
       "byproducts": "Cl",
@@ -5484,7 +6747,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx30": {
       "byproducts": "",
@@ -5497,7 +6763,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx365": {
       "byproducts": "-",
@@ -5510,7 +6779,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx274": {
       "byproducts": "-",
@@ -5523,7 +6795,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx189": {
       "byproducts": "",
@@ -5536,7 +6811,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx170": {
       "byproducts": "",
@@ -5549,7 +6827,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx54": {
       "byproducts": "-",
@@ -5562,7 +6843,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx84": {
       "byproducts": "",
@@ -5575,7 +6859,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx337": {
       "byproducts": "-",
@@ -5588,7 +6875,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx469": {
       "byproducts": "-",
@@ -5601,7 +6891,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx311": {
       "byproducts": "-;;;Cl[Zn]Cl",
@@ -5614,7 +6907,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH.L",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx36": {
       "byproducts": "OC(=O)C",
@@ -5627,7 +6923,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx66": {
       "byproducts": "",
@@ -5640,7 +6939,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx422": {
       "byproducts": "",
@@ -5653,7 +6955,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx134": {
       "byproducts": "-",
@@ -5666,7 +6971,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx238": {
       "byproducts": "-",
@@ -5679,7 +6987,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx164": {
       "byproducts": "",
@@ -5692,7 +7003,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx227": {
       "byproducts": "",
@@ -5705,7 +7019,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx113": {
       "byproducts": "-",
@@ -5718,7 +7035,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx162": {
       "byproducts": "-",
@@ -5731,7 +7051,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx508": {
       "byproducts": "-",
@@ -5744,7 +7067,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx409": {
       "byproducts": "",
@@ -5757,7 +7083,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx341": {
       "byproducts": "",
@@ -5770,7 +7099,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.RT.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx86": {
       "byproducts": "-",
@@ -5783,7 +7115,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx275": {
       "byproducts": "-",
@@ -5796,7 +7131,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx277": {
       "byproducts": "",
@@ -5809,7 +7147,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx187": {
       "byproducts": "",
@@ -5822,7 +7163,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx177": {
       "byproducts": "-",
@@ -5835,7 +7179,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx283": {
       "byproducts": "-",
@@ -5848,7 +7195,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx400": {
       "byproducts": "-",
@@ -5861,7 +7211,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx23": {
       "byproducts": "-",
@@ -5874,7 +7227,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx411": {
       "byproducts": "OC(=O)C",
@@ -5887,7 +7243,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx415": {
       "byproducts": "",
@@ -5900,7 +7259,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx110": {
       "byproducts": "",
@@ -5913,7 +7275,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx528": {
       "byproducts": "-",
@@ -5926,7 +7291,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx285": {
       "byproducts": "",
@@ -5939,7 +7307,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H.VH",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx253": {
       "byproducts": "P(=O)(O)(O)O",
@@ -5952,7 +7323,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx32": {
       "byproducts": "P(=O)(O)(O)O",
@@ -5965,7 +7339,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx14": {
       "byproducts": "",
@@ -5978,7 +7355,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx265": {
       "byproducts": "-",
@@ -5991,7 +7371,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx413": {
       "byproducts": "-",
@@ -6004,7 +7387,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx175": {
       "byproducts": "-",
@@ -6017,7 +7403,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx448": {
       "byproducts": "",
@@ -6030,7 +7419,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx258": {
       "byproducts": "-",
@@ -6043,7 +7435,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx299": {
       "byproducts": "-",
@@ -6056,7 +7451,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx286": {
       "byproducts": "-",
@@ -6069,7 +7467,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx17": {
       "byproducts": "-",
@@ -6082,7 +7483,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx429": {
       "byproducts": "-",
@@ -6095,7 +7499,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx130": {
       "byproducts": "-",
@@ -6108,7 +7515,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx516": {
       "byproducts": "-",
@@ -6121,7 +7531,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx509": {
       "byproducts": "C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3];;;CNC.Cl",
@@ -6134,7 +7547,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx438": {
       "byproducts": "C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3];;;CNC.Cl",
@@ -6147,7 +7563,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx273": {
       "byproducts": "C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3];;;CNC.Cl",
@@ -6160,7 +7579,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx495": {
       "byproducts": "C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Sc+3];;;CNC.Cl",
@@ -6173,7 +7595,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx396": {
       "byproducts": "B(F)(F)F.CCOCC;;;-",
@@ -6186,7 +7611,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx355": {
       "byproducts": "",
@@ -6199,7 +7627,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx272": {
       "byproducts": "",
@@ -6212,7 +7643,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx72": {
       "byproducts": "",
@@ -6225,7 +7659,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx410": {
       "byproducts": "",
@@ -6238,7 +7675,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx352": {
       "byproducts": "",
@@ -6251,7 +7691,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx294": {
       "byproducts": "",
@@ -6264,7 +7707,10 @@
       "rxprotonic": "AP.P",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx501": {
       "byproducts": "",
@@ -6277,7 +7723,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx263": {
       "byproducts": "",
@@ -6290,7 +7739,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": true,
+      "deprotonation": ""
     },
     "rx45": {
       "byproducts": "",
@@ -6303,7 +7755,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx240": {
       "byproducts": "",
@@ -6316,7 +7771,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx103": {
       "byproducts": "",
@@ -6329,7 +7787,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx479": {
       "byproducts": "",
@@ -6342,7 +7803,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx404": {
       "byproducts": "",
@@ -6355,7 +7819,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx165": {
       "byproducts": "",
@@ -6368,7 +7835,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx65": {
       "byproducts": "",
@@ -6381,7 +7851,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx288": {
       "byproducts": "[K+]",
@@ -6394,7 +7867,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx370": {
       "byproducts": "-",
@@ -6407,7 +7883,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx266": {
       "byproducts": "",
@@ -6420,7 +7899,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx473": {
       "byproducts": "",
@@ -6433,7 +7915,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx19": {
       "byproducts": "",
@@ -6446,7 +7931,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx183": {
       "byproducts": "",
@@ -6459,7 +7947,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx462": {
       "byproducts": "",
@@ -6472,7 +7963,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx158": {
       "byproducts": "",
@@ -6485,7 +7979,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx391": {
       "byproducts": "",
@@ -6498,7 +7995,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx344": {
       "byproducts": "",
@@ -6511,7 +8011,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx208": {
       "byproducts": "",
@@ -6524,7 +8027,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx306": {
       "byproducts": "",
@@ -6537,7 +8043,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": "simple"
     },
     "rx99": {
       "byproducts": "",
@@ -6550,7 +8059,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx328": {
       "byproducts": "",
@@ -6563,7 +8075,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx188": {
       "byproducts": "",
@@ -6576,7 +8091,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx346": {
       "byproducts": "",
@@ -6589,7 +8107,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx119": {
       "byproducts": "",
@@ -6602,7 +8123,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx338": {
       "byproducts": "",
@@ -6615,7 +8139,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx312": {
       "byproducts": "",
@@ -6628,7 +8155,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx229": {
       "byproducts": "",
@@ -6641,7 +8171,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx526": {
       "byproducts": "",
@@ -6654,7 +8187,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "VL.L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx343": {
       "byproducts": "",
@@ -6667,7 +8203,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx342": {
       "byproducts": "",
@@ -6680,7 +8219,10 @@
       "rxprotonic": "AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx38": {
       "byproducts": "",
@@ -6693,7 +8235,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "L.rt.H",
-      "mayr": false
+      "nComponents": 2,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx318": {
       "byproducts": "Oc1c(Cl)c(Cl)c(O)c(C#N)c1C#N",
@@ -6706,7 +8251,10 @@
       "rxprotonic": "AP",
       "rxpolar": "Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": false
+      "nComponents": 1,
+      "mayr": false,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx89": {
       "byproducts": "-",
@@ -6719,7 +8267,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "rt.H.VH",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx169": {
       "byproducts": "-;;;-",
@@ -6732,7 +8283,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 1,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx34": {
       "byproducts": "-;;;-",
@@ -6745,7 +8299,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx172": {
       "byproducts": "-;;;-",
@@ -6758,7 +8315,10 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     },
     "rx192": {
       "byproducts": "-;;;-",
@@ -6771,160 +8331,755 @@
       "rxprotonic": "P.AP",
       "rxpolar": "P.Non-P",
       "rxtemp": "H",
-      "mayr": true
+      "nComponents": 2,
+      "mayr": true,
+      "tautomerisation": false,
+      "deprotonation": ""
     }
   },
+  "fastRxSet": [
+    "rx262",
+    "rx88",
+    "rx70",
+    "rx297",
+    "rx100",
+    "rx456",
+    "rx505",
+    "rx252",
+    "rx205",
+    "rx81",
+    "rx307",
+    "rx324",
+    "rx518",
+    "rx256",
+    "rx195",
+    "rx445",
+    "rx10",
+    "rx120",
+    "rx54",
+    "rx87",
+    "rx58",
+    "rx272",
+    "rx173",
+    "rx315",
+    "rx498",
+    "rx125",
+    "rx170",
+    "rx387",
+    "rx393",
+    "rx196",
+    "rx188",
+    "rx75",
+    "rx72",
+    "rx462",
+    "rx480",
+    "rx208",
+    "rx27",
+    "rx470",
+    "rx214",
+    "rx63",
+    "rx426",
+    "rx337",
+    "rx325",
+    "rx457",
+    "rx236",
+    "rx11",
+    "rx517",
+    "rx135",
+    "rx513",
+    "rx211",
+    "rx308",
+    "rx493",
+    "rx189",
+    "rx302",
+    "rx161",
+    "rx46",
+    "rx289",
+    "rx180",
+    "rx148",
+    "rx168",
+    "rx465",
+    "rx529",
+    "rx153",
+    "rx136",
+    "rx167",
+    "rx217",
+    "rx24",
+    "rx359",
+    "rx416",
+    "rx485",
+    "rx185",
+    "rx116",
+    "rx228",
+    "rx204",
+    "rx230",
+    "rx51",
+    "rx512",
+    "rx239",
+    "rx259",
+    "rx137",
+    "rx385",
+    "rx422",
+    "rx183",
+    "rx350",
+    "rx360",
+    "rx486",
+    "rx221",
+    "rx179",
+    "rx304",
+    "rx298",
+    "rx20",
+    "rx139",
+    "rx184",
+    "rx213",
+    "rx415",
+    "rx331",
+    "rx340",
+    "rx62",
+    "rx458",
+    "rx146",
+    "rx48",
+    "rx424",
+    "rx13",
+    "rx77",
+    "rx12",
+    "rx421",
+    "rx74",
+    "rx527",
+    "rx398",
+    "rx507",
+    "rx235",
+    "rx460",
+    "rx471",
+    "rx231",
+    "rx30",
+    "rx147",
+    "rx287",
+    "rx268",
+    "rx281",
+    "rx251",
+    "rx194",
+    "rx523",
+    "rx225",
+    "rx405",
+    "rx352",
+    "rx191",
+    "rx501",
+    "rx351",
+    "rx126",
+    "rx439",
+    "rx475",
+    "rx469",
+    "rx372",
+    "rx105",
+    "rx101",
+    "rx377",
+    "rx497",
+    "rx264",
+    "rx96",
+    "rx73",
+    "rx157",
+    "rx164",
+    "rx464",
+    "rx303",
+    "rx117",
+    "rx391",
+    "rx14",
+    "rx182",
+    "rx271",
+    "rx514",
+    "rx244",
+    "rx267",
+    "rx344",
+    "rx181",
+    "rx371",
+    "rx379",
+    "rx127",
+    "rx294",
+    "rx423",
+    "rx388",
+    "rx207",
+    "rx521",
+    "rx42",
+    "rx368",
+    "rx68",
+    "rx412",
+    "rx60",
+    "rx366",
+    "rx449",
+    "rx355",
+    "rx403",
+    "rx300",
+    "rx122",
+    "rx414",
+    "rx176",
+    "rx461",
+    "rx95",
+    "rx91",
+    "rx320",
+    "rx278",
+    "rx291",
+    "rx490",
+    "rx472",
+    "rx487",
+    "rx519",
+    "rx246",
+    "rx143",
+    "rx528",
+    "rx66",
+    "rx347",
+    "rx443",
+    "rx155",
+    "rx520",
+    "rx269",
+    "rx67",
+    "rx406",
+    "rx306",
+    "rx511",
+    "rx467",
+    "rx319",
+    "rx263",
+    "rx199",
+    "rx437",
+    "rx160",
+    "rx190",
+    "rx260",
+    "rx500",
+    "rx249",
+    "rx328",
+    "rx145",
+    "rx525",
+    "rx118",
+    "rx112",
+    "rx227",
+    "rx358",
+    "rx99",
+    "rx193",
+    "rx482",
+    "rx241",
+    "rx152",
+    "rx41",
+    "rx154",
+    "rx59",
+    "rx503",
+    "rx435",
+    "rx459",
+    "rx38",
+    "rx22",
+    "rx206",
+    "rx223",
+    "rx200",
+    "rx301",
+    "rx202",
+    "rx156",
+    "rx450",
+    "rx94",
+    "rx488",
+    "rx53",
+    "rx428",
+    "rx390",
+    "rx382",
+    "rx410",
+    "rx82",
+    "rx373",
+    "rx384",
+    "rx477",
+    "rx374",
+    "rx280",
+    "rx397",
+    "rx198",
+    "rx215",
+    "rx78",
+    "rx515",
+    "rx210",
+    "rx433",
+    "rx21",
+    "rx92",
+    "rx35",
+    "rx98",
+    "rx149",
+    "rx270"
+  ],
+  "slowRxSet": [
+    "rx234",
+    "rx425",
+    "rx299",
+    "rx492",
+    "rx335",
+    "rx248",
+    "rx418",
+    "rx171",
+    "rx309",
+    "rx79",
+    "rx44",
+    "rx332",
+    "rx45",
+    "rx89",
+    "rx178",
+    "rx399",
+    "rx36",
+    "rx317",
+    "rx474",
+    "rx233",
+    "rx510",
+    "rx124",
+    "rx123",
+    "rx484",
+    "rx407",
+    "rx276",
+    "rx411",
+    "rx420",
+    "rx134",
+    "rx34",
+    "rx362",
+    "rx321",
+    "rx166",
+    "rx32",
+    "rx345",
+    "rx336",
+    "rx446",
+    "rx109",
+    "rx243",
+    "rx253",
+    "rx192",
+    "rx232",
+    "rx159",
+    "rx47",
+    "rx76",
+    "rx330",
+    "rx144",
+    "rx376",
+    "rx220",
+    "rx17",
+    "rx322",
+    "rx502",
+    "rx240",
+    "rx172"
+  ],
+  "verySlowRxSet": [
+    "rx524",
+    "rx52"
+  ],
+  "reversibleRx": [
+    "rx262",
+    "rx234",
+    "rx88",
+    "rx297",
+    "rx456",
+    "rx115",
+    "rx505",
+    "rx252",
+    "rx33",
+    "rx430",
+    "rx483",
+    "rx307",
+    "rx256",
+    "rx195",
+    "rx445",
+    "rx313",
+    "rx455",
+    "rx120",
+    "rx54",
+    "rx248",
+    "rx401",
+    "rx58",
+    "rx111",
+    "rx348",
+    "rx173",
+    "rx315",
+    "rx498",
+    "rx125",
+    "rx309",
+    "rx393",
+    "rx196",
+    "rx75",
+    "rx462",
+    "rx480",
+    "rx208",
+    "rx27",
+    "rx288",
+    "rx242",
+    "rx354",
+    "rx470",
+    "rx395",
+    "rx15",
+    "rx57",
+    "rx337",
+    "rx325",
+    "rx236",
+    "rx11",
+    "rx364",
+    "rx135",
+    "rx513",
+    "rx211",
+    "rx332",
+    "rx302",
+    "rx161",
+    "rx46",
+    "rx289",
+    "rx180",
+    "rx148",
+    "rx168",
+    "rx465",
+    "rx529",
+    "rx136",
+    "rx402",
+    "rx167",
+    "rx431",
+    "rx453",
+    "rx89",
+    "rx178",
+    "rx359",
+    "rx416",
+    "rx185",
+    "rx116",
+    "rx228",
+    "rx317",
+    "rx219",
+    "rx51",
+    "rx257",
+    "rx233",
+    "rx239",
+    "rx259",
+    "rx137",
+    "rx183",
+    "rx350",
+    "rx360",
+    "rx341",
+    "rx486",
+    "rx179",
+    "rx304",
+    "rx298",
+    "rx510",
+    "rx329",
+    "rx139",
+    "rx184",
+    "rx213",
+    "rx331",
+    "rx62",
+    "rx458",
+    "rx424",
+    "rx13",
+    "rx255",
+    "rx421",
+    "rx74",
+    "rx527",
+    "rx398",
+    "rx507",
+    "rx235",
+    "rx64",
+    "rx420",
+    "rx460",
+    "rx471",
+    "rx30",
+    "rx287",
+    "rx281",
+    "rx251",
+    "rx121",
+    "rx353",
+    "rx194",
+    "rx523",
+    "rx197",
+    "rx191",
+    "rx501",
+    "rx351",
+    "rx439",
+    "rx381",
+    "rx475",
+    "rx110",
+    "rx469",
+    "rx372",
+    "rx218",
+    "rx105",
+    "rx261",
+    "rx377",
+    "rx334",
+    "rx333",
+    "rx497",
+    "rx264",
+    "rx499",
+    "rx96",
+    "rx73",
+    "rx157",
+    "rx464",
+    "rx117",
+    "rx391",
+    "rx295",
+    "rx182",
+    "rx514",
+    "rx244",
+    "rx417",
+    "rx267",
+    "rx344",
+    "rx379",
+    "rx336",
+    "rx423",
+    "rx388",
+    "rx368",
+    "rx446",
+    "rx68",
+    "rx412",
+    "rx60",
+    "rx476",
+    "rx449",
+    "rx403",
+    "rx300",
+    "rx414",
+    "rx320",
+    "rx278",
+    "rx472",
+    "rx29",
+    "rx519",
+    "rx143",
+    "rx347",
+    "rx443",
+    "rx520",
+    "rx269",
+    "rx67",
+    "rx306",
+    "rx511",
+    "rx319",
+    "rx263",
+    "rx199",
+    "rx437",
+    "rx190",
+    "rx500",
+    "rx192",
+    "rx293",
+    "rx328",
+    "rx145",
+    "rx525",
+    "rx118",
+    "rx216",
+    "rx358",
+    "rx99",
+    "rx193",
+    "rx76",
+    "rx482",
+    "rx169",
+    "rx152",
+    "rx41",
+    "rx435",
+    "rx38",
+    "rx22",
+    "rx102",
+    "rx85",
+    "rx206",
+    "rx386",
+    "rx223",
+    "rx200",
+    "rx156",
+    "rx144",
+    "rx94",
+    "rx84",
+    "rx488",
+    "rx376",
+    "rx53",
+    "rx104",
+    "rx390",
+    "rx82",
+    "rx373",
+    "rx384",
+    "rx477",
+    "rx374",
+    "rx280",
+    "rx17",
+    "rx397",
+    "rx78",
+    "rx210",
+    "rx433",
+    "rx502",
+    "rx21",
+    "rx25",
+    "rx247",
+    "rx26",
+    "rx35",
+    "rx98",
+    "rx133"
+  ],
+  "redoxred": [],
+  "redoxox": [
+    "rx107",
+    "rx212",
+    "rx203",
+    "rx478",
+    "rx318",
+    "rx222",
+    "rx31",
+    "rx489",
+    "rx198",
+    "rx43",
+    "rx290",
+    "rx451",
+    "rx268"
+  ],
   "byprods": {
     "main": {
+      "C1CCNCC1": [],
+      "C1=CC=NC=C1": [],
       "Cl[Ti](Cl)(Cl)Cl": [
         "rx196"
       ],
       "O": [
-        "rx244",
-        "rx480",
         "rx96",
-        "rx431"
+        "rx431",
+        "rx480",
+        "rx244"
       ],
       "[Na+]": [
-        "rx94",
-        "rx53",
-        "rx257",
+        "rx262",
         "rx523",
-        "rx57",
-        "rx431",
-        "rx381",
         "rx276",
         "rx216",
-        "rx262"
+        "rx257",
+        "rx94",
+        "rx381",
+        "rx53",
+        "rx431",
+        "rx57"
       ],
       "[Na+];;;[Na+]": [
-        "rx244",
         "rx480",
-        "rx96"
+        "rx96",
+        "rx244"
       ],
       "[H][H]": [
-        "rx418",
-        "rx465",
+        "rx262",
         "rx96",
+        "rx465",
+        "rx480",
         "rx437",
         "rx492",
-        "rx244",
-        "rx262",
-        "rx480"
+        "rx418",
+        "rx244"
       ],
       "OC([O-])=O": [
+        "rx256",
+        "rx214",
         "rx124",
         "rx159",
-        "rx78",
-        "rx472",
-        "rx315",
-        "rx397",
-        "rx200",
-        "rx256",
         "rx416",
+        "rx200",
+        "rx78",
         "rx297",
+        "rx315",
         "rx490",
-        "rx214"
+        "rx472",
+        "rx397"
       ],
       "[K+]": [
         "rx297",
-        "rx472",
-        "rx288",
+        "rx416",
+        "rx492",
+        "rx307",
         "rx159",
+        "rx256",
+        "rx418",
+        "rx315",
         "rx186",
+        "rx200",
+        "rx288",
         "rx434",
         "rx397",
-        "rx307",
-        "rx492",
-        "rx418",
-        "rx256",
-        "rx416",
         "rx78",
-        "rx315",
-        "rx200"
+        "rx472"
       ],
       "OS(O)(=O)=O": [
         "rx317",
-        "rx336",
-        "rx334",
         "rx386",
+        "rx336",
         "rx76",
-        "rx309"
+        "rx309",
+        "rx334"
       ],
       "[O-]S([O-])(=O)=O": [
-        "rx309",
-        "rx336"
+        "rx336",
+        "rx309"
       ],
       "[Mg++]": [
-        "rx309",
-        "rx336"
+        "rx336",
+        "rx309"
       ],
       "O=C=O": [
         "rx431"
       ],
+      "Cl;;;OS(=O)(=O)O;;;Cc1ccc(cc1)S(=O)(=O)O": [],
+      "O=C(NC1CCCCC1)NC1CCCCC1": [],
+      "n1ccc(N(C)C)cc1": [],
       "CC[NH+](CC)CC": [
-        "rx22",
-        "rx21",
         "rx428",
+        "rx21",
+        "rx92",
         "rx493",
-        "rx92"
+        "rx22"
       ],
+      "n1nn(O)c2ccccc12": [],
+      "CCNC(=O)NCCCN(C)C": [],
       "Cl": [
         "rx495",
-        "rx273",
-        "rx399",
         "rx24",
-        "rx420",
-        "rx509",
+        "rx399",
         "rx329",
-        "rx438"
+        "rx509",
+        "rx438",
+        "rx273",
+        "rx420"
       ],
       "C1CCNCC1;;;[K+]": [
+        "rx214",
         "rx124",
-        "rx490",
-        "rx214"
+        "rx490"
       ],
       "CCN(CC)CC": [
         "rx356",
         "rx11"
       ],
+      "CCO": [],
+      "[Br-]": [],
+      "CCCC[N+](CCCC)(CCCC)CCCC": [],
+      "CO": [],
+      "CNC": [],
+      "CN(C)C": [],
       "CC(C)(C)O": [
         "rx359",
         "rx137",
         "rx445"
       ],
+      "CC[N+](CC)(CC)CC1=CC=CC=C1": [],
+      "[Cl-]": [],
       "[K+];;;CCCC": [
         "rx445"
       ],
       "[Li+]": [
+        "rx230",
         "rx465",
+        "rx70",
+        "rx445",
+        "rx193",
+        "rx450",
+        "rx303",
+        "rx439",
+        "rx437",
         "rx53",
         "rx205",
-        "rx179",
-        "rx267",
-        "rx98",
-        "rx193",
-        "rx303",
-        "rx70",
-        "rx450",
-        "rx426",
-        "rx437",
         "rx221",
-        "rx230",
-        "rx439",
-        "rx445"
+        "rx179",
+        "rx98",
+        "rx267",
+        "rx426"
       ],
       "[K+];;;[H][N+]1=C2CCCCCN2CCC1": [
-        "rx137",
-        "rx359"
+        "rx359",
+        "rx137"
       ],
+      "[Li+];;;[Na+]": [],
       "[Na+];;;[K+]": [
         "rx234",
         "rx178"
       ],
       "CCCC": [
-        "rx205",
-        "rx206"
+        "rx206",
+        "rx205"
       ],
       "CC(C)NC(C)C": [
         "rx193",
@@ -6934,18 +9089,19 @@
       "CN(C)P(=O)(N(C)C)N(C)C": [
         "rx193"
       ],
+      "[H][N+]1([H])CCCCC1": [],
       "[H][N+]1([H])CCCCC1;;;[NH4+]": [
         "rx167"
       ],
       "CC(=O)O": [
-        "rx257",
-        "rx216",
-        "rx180",
-        "rx247",
-        "rx57",
+        "rx298",
         "rx381",
+        "rx180",
         "rx167",
-        "rx298"
+        "rx216",
+        "rx57",
+        "rx247",
+        "rx257"
       ],
       "O;;;O": [
         "rx94"
@@ -6954,32 +9110,76 @@
         "rx446",
         "rx220"
       ],
+      "O=[Ti]=O": [],
+      "Cl;;;CN1CCOCC1": [],
+      "C[O-]": [],
+      "[OH3+]": [],
       "c1cc[nH+]cc1": [
         "rx195"
       ],
+      "O[Al](O)O": [],
+      "OB(O)C#N;;;[Na+]": [],
+      "CC(=O)OB(O)OC(C)=O": [],
+      "OC(C)=O;;;O[Cu]O": [],
+      "OC(C)=O": [],
+      "C(=O)([OH])[O-]": [],
+      "OC": [],
       "Cl[Al](Cl)Cl": [
         "rx142"
       ],
+      "CN(C)c1ccncc1": [],
       "CC(=O)[O-]": [
-        "rx148",
         "rx25",
-        "rx281",
-        "rx417"
+        "rx417",
+        "rx148",
+        "rx281"
       ],
+      "F": [],
+      "CC[NH+](CC)CC;;;CC[NH+](CC)CC": [],
       "[I-]": [
         "rx230",
         "rx303"
       ],
+      "CC[NH+](CC)CC;;;C1C[NH+]=C2CCCCCN2C1;;;CC[NH+](CC)CC;;;C1C[NH+]=C2CCCCCN2C1": [],
       "OC(C)(C)C": [
-        "rx186",
-        "rx434"
+        "rx434",
+        "rx186"
       ],
+      "O=C1CCC(=O)N1": [],
+      "-;;;[K+]": [],
+      "-;;;CC(C)c1cccc(C(C)C)c1-n1cc[n+](c1)-c1c(cccc1C(C)C)C(C)C": [],
+      "F[B-](F)(F)F;;;CC(C)c1cccc(C(C)C)c1N1C=CN(c2c(cccc2C(C)C)C(C)C)[C+]1F": [],
+      "[Na+];;;C[Si+](C)C": [],
+      "CC(C)C": [],
+      "[Pd]": [],
+      "O=C(\\C=C\\c1ccccc1)/C=C/c2ccccc2": [],
+      "CC(C)(C)P(C(C)(C)C)C(C)(C)C": [],
+      "F[B-](F)(F)F": [],
+      "c1ccc(cc1)P(c1ccccc1)c1ccccc1": [],
+      "[O-]C(=O)C": [],
+      "OO": [],
+      "c1ccccc1P(=O)(c2ccccc2)c3ccccc3": [],
+      "O=C(OC(C)C)NNC(OC(C)C)=O": [],
+      "N#N": [],
+      "O=C(O)c1ccccc1": [],
+      "[Rh]": [],
+      "C[O-];;;N": [],
+      "[OH-]": [],
       "OS(=O)(=O)[O-]": [
-        "rx255",
         "rx64",
         "rx104",
-        "rx29"
+        "rx29",
+        "rx255"
       ],
+      "O;;;[Mg++]": [],
+      "[NH4+]": [],
+      "-;;;CCN(CC)CC": [],
+      "-;;;CCN(CC)CC;;;C1CN=C2CCCCCN2C1": [],
+      "c1ccc(cc1)P(c2ccccc2)c3ccccc3": [],
+      "c4ccc(cc4)P(c5ccccc5)c6ccccc6": [],
+      "c7ccc(cc7)P(c8ccccc8)c9ccccc9": [],
+      "c%10ccc(cc%10)P(c%11ccccc%11)c%12ccccc%12": [],
+      "-;;;CC[NH+](CC)CC": [],
       "[Li+];;;CC(C)NC(C)C": [
         "rx205"
       ],
@@ -6989,12 +9189,86 @@
       "[Li+];;;[H][N+]1=C2CCCCCN2CCC1": [
         "rx206"
       ],
+      "Cc1c(CCO)sc[n+]1CC1=CC=CC=C1": [],
+      "[Cl-];;;[Na+]": [],
+      "[C-]#N": [],
+      "CC[NH+](C(C)C)C(C)C": [],
+      "[H][H];;;C(=O)([OH])[O-]": [],
+      "[Hg++]": [],
+      "CCN(CC)CC;;;c1c[nH]cn1": [],
+      "c1c[nH]cn1;;;CCO": [],
+      "Cc1cccc(C)[nH+]1": [],
+      "[Cs+]": [],
+      "-;;;c1c[nH]cn1": [],
+      "c1c[nH]cn1": [],
+      "CC(O)=O": [],
+      "ClC[N+]12CCN(CC1)CC2": [],
+      "F[B-](F)(F)F;;;O": [],
+      "[Ag]": [],
+      "[O-]S(=O)(=O)[O-]": [],
+      "OS([O-])(=O)=O": [],
+      "[K+];;;OC(=O)c1cccc(Cl)c1": [],
+      "-;;;-;;;-": [],
+      "[O-][Cl](=O)(=O)=O": [],
+      "[O-][Cl](=O)(=O)=O;;;[Zr]": [],
+      "O;;;O=[Ti]=O;;;[Hf]": [],
+      "C(=O)(O)O": [],
+      "[K+];;;C(=O)([OH])[O-]": [],
+      "O=S=O": [],
+      "O;;;O=S=O": [],
+      "C[Re](=O)(=O)=O": [],
+      "-;;;[NH4+]": [],
+      "FB(F)F": [],
+      "[K+] then -": [],
+      "C[Si](C)(C)O": [],
+      "c1ccncc1": [],
+      "c1ccncc1;;;-": [],
+      "[Cu]": [],
+      "C(=O)(=O)": [],
+      "Cc1ccc(cc1)S(=O)(=O)O": [],
+      "C(C)(C)(C)C(=O)O": [],
+      "Cc1c(C)c(C)[c-](C)c1C": [],
+      "[C-]#[O+]": [],
+      "[Cl-] then [Cl-]": [],
+      "CC[NH+](CC)CC then [Rh]": [],
+      "-;;;OS([O-])(=O)=O": [],
+      "[Cl-] then c1ccncc1": [],
+      "CCOP(=O)(OCC)OCC;;;CCP(=O)(CC)CC": [],
+      "[Ir]": [],
       "O=P(N(C)C)(N(C)C)N(C)C": [
         "rx387"
       ],
+      "CNCCNC": [],
+      "C(=O)([O-])O": [],
+      "OP(Cl)Cl": [],
+      "[Cl-];;;Oc1nc(Cl)nc(Cl)n1;;;O=S=O": [],
+      "Cc1ccc2ccc3ccc(C)nc3c2n1": [],
+      "Oc1ccc(O)c2ccccc12": [],
+      "FC(F)(F)C(=O)O": [],
+      "FC(F)(F)C(=O)O;;;CC(=O)O": [],
+      "[N+](=O)[O-]": [],
+      "OS(=O)(=O)OB(OS(O)(=O)=O)OS(O)(=O)=O": [],
+      "c1c2ccccc2ccc1": [],
+      "Cl[Sn](Cl)(Cl)Cl;;;Cl[Al](Cl)Cl;;;OC(=O)C(F)(F)F": [],
+      "[F-]": [],
       "OC(=O)[O-]": [
         "rx307"
       ],
+      "[O-]P(Cl)(Cl)=O": [],
+      "ClP(Cl)(Cl)(Cl)Cl": [],
+      "Cl[Zr](Cl)(Cl)Cl": [],
+      "C[Si+](C)C": [],
+      "C1CCC2OCCOCCOC3CCCCC3OCCOCCOC2C1": [],
+      "[Ca++]": [],
+      "CC1=CC=C(C=C1)S(=O)(=O)O;;;CC(=O)O": [],
+      "C[Si](C)(C)OS(=O)(=O)C(F)(F)F": [],
+      "N1C(=O)CCC1=O": [],
+      "OS(=O)(=O)C(F)(F)F;;;[I-]": [],
+      "OB(O)O": [],
+      "COCCO[Al-](O)(O)OCCOC": [],
+      "C[Al](C)C": [],
+      "CC[Si](O)(CC)CC": [],
+      "FB(F)F;;;CC[Si](O)(CC)CC": [],
       "CC(C)NC(C)C;;;C1C[NH+]=C2CCCCCN2C1": [
         "rx267",
         "rx439"
@@ -7006,668 +9280,529 @@
         "rx98"
       ],
       "CCCC;;;[Na+]": [
-        "rx437",
-        "rx465"
+        "rx465",
+        "rx437"
       ],
       "[H][H];;;[Li+]": [
         "rx523"
       ],
+      "CCCC;;;[Li]N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F": [],
+      "C(=O)([O-])[OH]": [],
+      "O=[Al]O[Al]=O": [],
+      "O=[Si]=O": [],
+      "[Hg]": [],
+      "[Ba++]": [],
+      "[Mo]": [],
+      "[Fe]": [],
+      "[ClH]": [],
+      "[Ni]": [],
+      "OS(=O)(=O)O": [],
+      "[V]": [],
+      "[Zn]": [],
+      "[W]": [],
+      "O then - then -": [],
+      "O then OS(=O)(=O)[O-]": [],
+      "C=C": [],
+      "C": [],
+      "O=[V](=O)O[V](=O)=O": [],
+      "[Ni+2]": [],
+      "OC(=O)c3ccccc3P(c3ccccc3)c3ccccc3": [],
+      "[Bi]": [],
+      "S": [],
+      "[Pt]": [],
+      "[Cr]": [],
+      "[Co]": [],
+      "[Ni++]": [],
+      "CC([O-])=O": [],
+      "OC([O-])=O;;;[K+]": [],
+      "[O-]S([O-])(=O)=O;;;[Na+]": [],
+      "[O-]S([O-])(=O)=O;;;[Ag+]": [],
+      "OC1=CC=C(C=C1)[N+]([O-])=O;;;OC=O;;;[Na+]": [],
+      "[H][P+]12N(CCN(CCN1C(C)C)CCN2C(C)C)C(C)C": [],
+      "[Ag+]": [],
+      "[O-][N+]([O-])=O": [],
+      "c3ccccc3P(c3ccccc3)c3ccccc3": [],
+      "[ClH];;;c3ccccc3P(c3ccccc3)c3ccccc3": [],
+      "OS(=O)(=O)c3ccc(C)cc3": [],
+      "C[C-]1C(C)=C(C)C(C)=C1C": [],
+      "[Sb+](F)(F)(F)(F)(F)F": [],
+      "[Zn+2]": [],
       "OC(=O)C": [
-        "rx411",
-        "rx36"
+        "rx36",
+        "rx411"
       ],
+      "[B-](F)(F)(F)F": [],
       "CCCC[N+](CCCC)(CCCC)CCCC;;;[Cs+]": [
         "rx260"
       ],
       "C[Si](C)(C)N[Si](C)(C)C": [
         "rx276"
       ],
+      "O1CCOCCOCCOCCOCCOCC1": [],
+      "[Eu]": [],
+      "CC(C)(C)C(=O)CC(=O)C(F)(F)C(F)(F)C(F)(F)F": [],
+      "CC(C)(C)C(=O)CC(=O)C(F)(F)C(F)(F)C(F)(F)F;;;[Cu++]": [],
       "[O-]S(=O)(=O)C(F)(F)F": [
-        "rx426",
-        "rx450"
+        "rx450",
+        "rx426"
       ],
+      "CC(C)(C)[C@H]1COC(=N1)C(C)(C)C1=N[C@H](CO1)C(C)(C)C": [],
+      "[Zr]": [],
+      "c1cnc2c(c1)ccc1cccnc21": [],
+      "CC[Al](Cl)CC": [],
+      "OP(O)(O)=O": [],
+      "[C]": [],
+      "CCC(C)=O": [],
+      "[Na]OCl": [],
+      "N": [],
+      "O=O": [],
+      "[Cu]Cl": [],
+      "F[Sb-](F)(F)(F)(F)F": [],
+      "FC(F)(F)c1cc(cc(c1)C(F)(F)F)[B-](c2cc(cc(c2)C(F)(F)F)C(F)(F)F)(c3cc(cc(c3)C(F)(F)F)C(F)(F)F)c4cc(cc(c4)C(F)(F)F)C(F)(F)F": [],
       "OC(=O)C(F)(F)F;;;Cl[Ti](Cl)(Cl)Cl": [
         "rx196"
       ],
       "CCN(CC)CC;;;c1ccncc1": [
         "rx520"
       ],
+      "[Cl-];;;c1cc[nH+]cc1": [],
+      "[Li+];;;C[Si](C)(C)N[Si](C)(C)C": [],
+      "[Li+];;;CC(C)(C)O": [],
+      "[Li+];;;CCCC[N+](CCCC)(CCCC)CCCC": [],
+      "FC(F)(F)S(=O)(=O)NS(=O)(=O)C(F)(F)F": [],
+      "Cc1ccccc1S(O)(=O)=O": [],
+      "Cc1cccc(c1)S(O)(=O)=O;;;Cc1ccccc1S(O)(=O)=O": [],
+      "Cl;;;Cc1ccccc1S(O)(=O)=O": [],
       "Cc1ccc(cc1)S(O)(=O)=O": [
-        "rx313",
         "rx339",
-        "rx432",
+        "rx313",
         "rx245",
+        "rx432",
         "rx522"
       ],
+      "CC(=C)C(O)=O": [],
+      "OP1(=O)Oc2c(cc3ccccc3c2-c2c(O1)c(cc1ccccc21)-c1ccccc1)-c1ccccc1": [],
+      "[O-]P([O-])([O-])=O;;;[Li+]": [],
+      "[O-]P([O-])([O-])=O": [],
+      "[Al]": [],
+      "[Th];;;[Ni]": [],
+      "OS(=O)(=O)c1cccc2C(=O)c3c(cccc3S(O)(=O)=O)C(=O)c12": [],
+      "OS(=O)(=O)c1cccc2C(=O)c3cccc(c3C(=O)c12)S(O)(=O)=O": [],
+      "OS(=O)(=O)c1ccc2C(=O)c3ccc(cc3C(=O)c2c1)S(O)(=O)=O": [],
+      "OS(=O)(=O)c1ccc2C(=O)c3cc(ccc3C(=O)c2c1)S(O)(=O)=O": [],
+      "OS(=O)(=O)c1cccc2C(=O)c3ccccc3C(=O)c12": [],
+      "[O-][Cl](=O)=O": [],
+      "O[N+]([O-])(=O)": [],
+      "[O-][N+](=O)c1cccc2C(=O)c3c(cccc3[N+]([O-])=O)C(=O)c12": [],
+      "[O-][N+](=O)c1cccc2C(=O)c3cccc(c3C(=O)c12)[N+]([O-])=O": [],
+      "O[N+]([O-])=O": [],
+      "[O-][N+](=O)c1cccc2C(=O)c3ccccc3C(=O)c12": [],
+      "OS(=O)(=O)c1cccc2C(=O)c3cccc(c3C(=O)c12)[N+]([O-])=O": [],
+      "OS(=O)(=O)c1cccc2C(=O)c3c(cccc3[N+]([O-])=O)C(=O)c12": [],
+      "c1cc(cc(c1)S(=O)(=O)O)[N+](=O)[O-]": [],
+      "N(=O)[O-]": [],
+      "O=S(=O)(O)N": [],
+      "Oc1ccc(c2C(=O)c3ccc(c(O)c3C(=O)c12)[N+]([O-])=O)[N+]([O-])=O": [],
+      "Oc1ccc(c2C(=O)c3c(ccc(O)c3C(=O)c12)[N+]([O-])=O)[N+]([O-])=O": [],
+      "Nc1ccccc1": [],
+      "C(=O)([O-])[O-]": [],
+      "O=[Mn]=O": [],
+      "O=[Cr]O[Cr]=O;;;Cl[Al](Cl)Cl": [],
+      "O=[Cr]O[Cr]=O": [],
+      "OS(=O)(=O)O;;;O[Al](O)O": [],
+      "[Mn]": [],
+      "c1ccccc1O": [],
+      "O=S(O)(Cl)=O": [],
+      "O=C1OC(=O)c2ccccc12": [],
+      "CC(C)(C)OOC(C)(C)C": [],
+      "CCC(C)(OO)OOC(C)(CC)OOC(C)(CC)OO": [],
+      "CCC(C)(OO)OO": [],
+      "CCC1(C)OOC(C)(CC)OOC(C)(CC)OO1": [],
+      "CCc1ccc2c(O)c3ccccc3c(O)c2c1": [],
+      "CCc1ccc2C(=O)c3ccccc3C(=O)c2c1": [],
       "Cl;;;OS(=O)(=O)O": [
         "rx368"
       ],
       "-;;;-": [
-        "rx510",
         "rx248",
-        "rx34",
-        "rx169",
+        "rx192",
         "rx172",
-        "rx192"
+        "rx510",
+        "rx169",
+        "rx34"
       ],
       "CC(=O)O;;;CC(=O)O": [
         "rx399"
       ],
+      "O[Cr](O)=O": [],
+      "COC(=O)C1=CC(CN2C=NC=N2)=CC(CN2C=NC=N2)=C1": [],
+      "[Ni](Br)Br": [],
+      "CCCCCCCCCCCCCCCCCC(=O)OCCO": [],
+      "Cc1ccncc1": [],
+      "CCc1ccnc(C)c1": [],
+      "CCc1cccc(C)n1": [],
+      "[Cd]": [],
+      "Cc1ccccn1": [],
+      "Cc1cccnc1": [],
+      "c1ccc(cc1)-c1ccccn1": [],
+      "c1ccc(cc1)-c1ccncc1": [],
+      "Cc1cccc(C)n1": [],
+      "c1ccccn1": [],
+      "CC1CCCCN1": [],
+      "CC(CCCN)CN": [],
+      "O;;;C[Si](C)(C)O": [],
+      "[Cu+2]": [],
+      "CC(C)(C)O;;;CC(C)(C)O": [],
+      "II;;;CC(C)(C)O": [],
+      "OCCCCO": [],
+      "C1CCCO1": [],
+      "OC(=O)/C=C\\C(O)(=O)": [],
+      "OC(=O)/C=C/C(O)(=O)": [],
+      "C(CC(=O)O)C(=O)O": [],
+      "[Si];;;[Cu]": [],
+      "[Si]": [],
+      "Cc1ccc(C)c(O)c1": [],
+      "Cc1cc(C)c(O)c(C)c1": [],
+      "[Mg]=O": [],
+      "[U]": [],
+      "Cc1cc(C)c(C)c(O)c1C": [],
+      "Cc1cc(C)c(C)c(O)c1": [],
+      "CCc1cccc(CC)c1O": [],
+      "CCC(C)c1cccc(CC)c1O": [],
+      "CCc1ccccc1O": [],
+      "CCc1cc(C)cc(CC)c1O": [],
+      "CCc1cc(C)ccc1O": [],
+      "CCc1c(C)cc(C)c(CC)c1O": [],
+      "CCc1c(C)cc(C)cc1O": [],
+      "[Ti]": [],
+      "[Mn+2]": [],
+      "[Ce]": [],
+      "-;;;Cl[Fe](Cl)Cl": [],
+      "CC[Zn]CC": [],
+      "c1ccccc1": [],
+      "c1ccc(cc1)-c1ccc(cc1)-c1ccccc1": [],
+      "c1ccc(cc1)-c1cccc(c1)-c1ccccc1": [],
+      "c1ccc(cc1)-c1ccccc1-c1ccccc1": [],
+      "c1ccc(cc1)-c1ccccc1": [],
+      "Clc1ccc(Cl)cc1": [],
+      "Clc1ccccc1Cl": [],
+      "[Pb]": [],
+      "[Al];;;O=[Ti]=O": [],
+      "O=[Sn]=O": [],
+      "O=BOB=O": [],
+      "[K]O[K]": [],
+      "[O-]C([O-])=O": [],
+      "[Cu+]": [],
+      "CCC=C": [],
+      "CC=CC": [],
+      "CCCCC(C)C=C": [],
+      "CC(C)=CC(C)(C)C": [],
+      "CC(=C)CC(C)(C)CC(C)(C)C": [],
+      "CC(=C)CC(C)(C)CC(C)(C)CC(C)(C)C": [],
+      "CC(CC(C)(C)C)=CC(C)(C)CC(C)(C)C": [],
+      "CC(CC(C)(C)C)=CC(C)(C)C": [],
+      "CC(=CC(C)(C)CC(C)(C)C)CC(C)(C)C": [],
+      "CC(C)CC(C)(C)C": [],
+      "CCCl": [],
+      "ClCCCl": [],
+      "ClC=CCl": [],
+      "ClCC(Cl)Cl": [],
+      "ClC(Cl)(Cl)Cl": [],
+      "[O-]C(=O)O;;;-": [],
       "Oc1c(Cl)c(Cl)c(O)c(C#N)c1C#N": [
         "rx318"
       ],
+      "O;;;[Na+]": [],
+      "S=P12SP3(=S)SP(=S)(S1)SP(=S)(S2)S3;;;COc1ccc(cc1)P(=O)=S": [],
+      "OP(Cl)(Cl)=O": [],
+      "C1COCC[NH2+]1": [],
+      "C1COCCN1": [],
+      "OC(=O)C1CCCN1;;;O=[Al]O[Al]=O;;;CC[NH+](CC)CC": [],
       "-;;;[La];;;CCN(CC)CC": [
         "rx133"
       ],
+      "-;;;[La]": [],
+      "-;;;CC1=CC=C(C=C1)S(O)(=O)=O": [],
+      "-;;;CC1=CC=C(C=C1)S(O)(=O)=O;;;CCN(CC)CC": [],
+      "[O-]S(=O)(=O)O": [],
+      "CC1=CC=C(C=C1)S(=O)(=O)O;;;O=S=O": [],
+      "CC(=O)O;;;[Cl-]": [],
+      "CC1=CC=C(C=C1)S(=O)(=O)O": [],
+      "[Na+];;;[OH-]": [],
+      "[O-]": [],
+      "-;;;c1ccncc1": [],
+      "-;;;c1cnccc1": [],
+      "-;;;[Na+]": [],
+      "[OH-];;;CC(C)N(CC)C(C)C": [],
+      "-;;;CCN(CC)CC;;;-": [],
+      "CCN(CC)CC;;;-": [],
+      "c1ncccc1;;;-": [],
+      "CCN(CC)CC;;;-;;;-;;;-": [],
+      "-;;;Cc1nc(C)cc(C)c1": [],
+      "[OH-];;;-": [],
+      "O=C=C": [],
+      "[OH-];;;C[N+](C)(C)Cc1ccccc1": [],
+      "[OH-];;;O=C=O": [],
+      "[OH-];;;[NH4+]": [],
+      "-;;;C[N+](C)(C)Cc1ccccc1": [],
+      "C[N+](C)(C)Cc1ccccc1": [],
+      "CCN(CC)CC;;;-;;;[Na+]": [],
+      "[OH-];;;-;;;-": [],
+      "[OH-];;;[Na+]": [],
+      "Cl;;;OP(=O)(O)O": [],
+      "Cl;;;-": [],
+      "II;;;FC(F)(F)C(=O)O": [],
+      "II": [],
+      "OC;;;[Na+]": [],
+      "FC(F)(F)C(=O)O;;;Cl": [],
+      "II;;;FC(F)(F)C(=O)O;;;Cl": [],
+      "-;;;-;;;-;;;-": [],
+      "-;;;O;;;-;;;-": [],
+      "O;;;-;;;-": [],
+      "-;;;O;;;-;;;-;;;-": [],
+      "-;;;-;;;O": [],
+      "-;;;O;;;-": [],
       "OC(=O)C(F)(F)F": [
         "rx85"
       ],
+      "-;;;[Fe+3]": [],
       "[Fe+3]": [
         "rx198"
       ],
+      "[Zn];;;CC(=O)CC(=O)C": [],
+      "CCC(=O)": [],
+      "CC=CC=O": [],
+      "CCC(=O)CC": [],
+      "CCC(=O)OC(=O)CC;;;CC(=O)CC(=O)C": [],
+      "CC(C)C=O": [],
+      "Oc1ccc(O)cc1": [],
+      "[Cu++]": [],
+      "OC(=O)\\C=C/C(O)=O": [],
+      "OC=O": [],
+      "C[C@@H](NC(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)c1ccccc1": [],
+      "C[C@H](NC(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)c1ccccc1": [],
+      "C[C@@H](N[C@H](C)c1ccccc1)c1ccccc1": [],
+      "C[C@H](N[C@@H](C)c1ccccc1)c1ccccc1": [],
+      "O[I]1OC(=O)c2ccccc12": [],
+      "OC(=O)CCCC(O)=O": [],
+      "CCN(CC)C[C@@H](N)C(C)(C)C": [],
+      "CCN(CC)C[C@H](N)C(C)(C)C": [],
+      "C1CCCCN1": [],
+      "Cc1ccccc1S(=O)(=O)Cl": [],
+      "Cc1ccc(S(=O)(=O)Cl)cc1": [],
+      "O[Cr](=O)(=O)O[Cr](=O)(=O)O": [],
+      "O=I(=O)[I-]": [],
+      "Cl[Fe](Cl)Cl": [],
+      "-;;;CCN(CC)NN": [],
+      "[F-];;;[Na+]": [],
+      "S(Sc1ccccn1)c1ccccn1": [],
+      "CC(C)[N-]C(C)C": [],
+      "CC[O-]": [],
+      "-;;;[Cl-]": [],
+      "[NH2-]": [],
+      "[Na+];;;[NH2-]": [],
+      "C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3": [],
+      "Cl[RuH]": [],
+      "CC(C)(C)[O-]": [],
+      "[K+];;;C1=CC=C2C(=C1)C3=CC=CC=C3C2=O": [],
+      "CC(C)C[Al](O)CC(C)C": [],
+      "CCN(CC)CC;;;O[Al](O)O": [],
+      "[O-][N+](=O)C1=CC=CC=C1[Se]=O": [],
+      "CCCCP(=O)(CCCC)CCCC": [],
+      "C#N": [],
+      "CS(=O)(=O)O": [],
+      "CN(C)C1=CC=NC=C1": [],
+      "Cl;;;CC1=CC=C(C=C1)S(=O)(=O)O": [],
+      "O=S(C1=CC=CC=C1)C1=CC=CC=C1": [],
+      "OC(C1=CC=CC=C1)(C(F)(F)F)C(F)(F)F": [],
+      "OC(C1=CC=CC=C1)(C(F)(F)F)C(F)(F)F;;;CS(=O)(=O)O": [],
+      "Cl;;;[O-]S(=O)(=O)[O-]": [],
+      "[Cu+2];;;OS(=O)(=O)O": [],
+      "Cl;;;O=S=O": [],
+      "OS(=O)(=O)O;;;[O-]S(=O)(=O)[O-]": [],
+      "[Na+];;;[Li+]": [],
+      "N(C(C)C)C(C)C": [],
+      "O=P(N(C)C)(N(C)C)N(C)C;;;[Na+]": [],
+      "O=C(c1ccccc1)c1ccccc1": [],
+      "[Mn+2];;;[Cu+]": [],
+      "OC(=O)C;;;Oc1c(Cl)c(Cl)c(O)c(C#N)c1C#N": [],
+      "[Cl-];;;O=S=O": [],
+      "NS(=O)(=O)O": [],
+      "Cl;;;OC(=O)C(F)(F)F": [],
+      "CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C": [],
+      "OC1=CC=C2CCCCC2=C1C1=C2CCCCC2=CC=C1O": [],
+      "CC(I)C": [],
+      "FC(F)(F)S(=O)(=O)O[Zn]OS(=O)(=O)C(F)(F)F": [],
+      "CC(C(O)c1ccccc1)N(C)C": [],
+      "[Mg+2]": [],
+      "OC([C@H]1CCCN1)(c1ccccc1)c1ccccc1": [],
+      "CB(O)(O)": [],
+      "CSC;;;OC([C@H]1CCCN1)(c1ccccc1)c1ccccc1": [],
+      "OB(O5)Oc3c5cccc3": [],
+      "CSC": [],
+      "OC([C@@H]1CCCN1)(c1ccccc1)c1ccccc1": [],
+      "CSC;;;OC([C@@H]1CCCN1)(c1ccccc1)c1ccccc1": [],
+      "O;;;[K+]": [],
+      "OC(C)(C)C;;;[K+]": [],
       "-;;;Cl[Zn]Cl": [
         "rx311"
       ],
+      "Br[Zn]Br;;;-": [],
+      "Cl[Sn](Cl)(Cl)Cl": [],
+      "[O-]C(=O)O": [],
       "P(=O)(O)(O)O": [
         "rx32",
         "rx253"
       ],
       "C(F)(F)(F)S(=O)(=O)[O-]": [
-        "rx438",
         "rx495",
-        "rx273",
-        "rx509"
+        "rx509",
+        "rx438",
+        "rx273"
       ],
       "[Sc+3];;;CNC": [
-        "rx438",
         "rx495",
-        "rx273",
-        "rx509"
+        "rx509",
+        "rx438",
+        "rx273"
       ],
       "B(F)(F)F": [
         "rx396"
       ],
       "CCOCC;;;-": [
         "rx396"
-      ]
+      ],
+      "N\\2=C1\\N(CCCCC1)CCC/2": [],
+      "C[Si](C)(C)[N-][Si](C)(C)C": [],
+      "Cl[H]": [],
+      "n1ccc(N(C)C)cc1;;;O=C(NC1CCCCC1)NC1CCCCC1": [],
+      "[Ir];;;[Na+]": [],
+      "[Mg];;;[Na+]": [],
+      "-;;;[Pd]": [],
+      "O=[Ni]O[Ni]=O;;;CCSCSCC": [],
+      "[Cs+];;;O": [],
+      "[Fe+++]": [],
+      "Brc1ccc(Br)cc1": [],
+      "Brc1ccccc1Br": [],
+      "C[Si](C)(C)OS(=O)(=O)C(F)(F)F;;;FB(F)F": [],
+      "[Ru]": [],
+      "c1ccc(cc1)P(c2ccccc2)c3ccc4ccccc4c3c5c6ccccc6ccc5P(c7ccccc7)c8ccccc8": [],
+      "[Al+3]": [],
+      "[Pd++]": [],
+      "C1CCC(CC1)P(C1CCCCC1)C1CCCCC1": [],
+      "[O-][I](=O)([OH])[OH]": [],
+      "C\\C([O-])=C\\C(C)=O": [],
+      "O[SiH](O)c1ccccc1": [],
+      "[Pd+2]": [],
+      "CC(C)(C)P(C1=CC=CC1)C(C)(C)C": [],
+      "[Fe+2]": [],
+      "CCCC[Sn](CCCC)(CCCC)F": [],
+      "OS(=O)(=O)C(F)(F)F": [],
+      "CN(C)CCN(C)CCN(C)C": [],
+      "[O-]C(=O)[O-]": [],
+      "CCCCP(CCCC)CCCC": [],
+      "c3ccccc3[N+](CC)(CC)CC": [],
+      "ClB(Cl)Cl": [],
+      "[Ru++]": [],
+      "C1OC2=C(O1)C(=C(C=C2)P(C3=CC=CC=C3)C4=CC=CC=C4)C5=C(C=CC6=C5OCO6)P(C7=CC=CC=C7)C8=CC=CC=C8": [],
+      "CC[C@H]1CC[C@H](CC)P1CCP1[C@@H](CC)CC[C@@H]1CC": [],
+      "C1CC=CCCC=C1": [],
+      "C1C\\C=C/CC\\C=C/1": [],
+      "CC(C)c1cccc(C(C)C)c1N1[C]C2(CC1(C)C)CCCCC2": [],
+      "CC(C)(C)c1cc2\\C=N\\[C@@H]3CCCC[C@H]3\\N=C\\c4cc(cc(c4O[Mn](Cl)Oc2c(c1)C(C)(C)C)C(C)(C)C)C(C)(C)C": [],
+      "Ic1ccccc1": [],
+      "O=[I]c1ccccc1": [],
+      "CC(C)(C)c1cc2\\C=N\\[C@H]3CCCC[C@@H]3\\N=C\\c4cc(cc(c4O[Mn](Cl)Oc2c(c1)C(C)(C)C)C(C)(C)C)C(C)(C)C": [],
+      "[SeH]c1ccccc1": [],
+      "O[B-](O)(O)O": [],
+      "CC(C)O[Ti](OC(C)C)(OC(C)C)Oc1c(\\C=N\\[C@@H]2CCCC[C@H]2\\N=C\\c2cc(cc(c2O[Ga](C)C)C(C)(C)C)C(C)(C)C)cc(cc1C(C)(C)C)C(C)(C)C": [],
+      "[Li]": [],
+      "[O-]C(=O)CS": [],
+      "HCl": [],
+      "C1=NC=CC=C1;;;-": [],
+      "O[B-](O)(O)O then OS(O)(=O)=O": [],
+      "CCC(C)[B-](O)(C(C)CC)C(C)CC": [],
+      "[Ce+3]": []
     },
-    "alter": {}
+    "alter": {
+      "[Na+]": [],
+      "OB(O)C#N;;;[Na+]": [],
+      "CC(=O)OB(O)OC(C)=O": [],
+      "OC(C)=O;;;O[Cu]O": [],
+      "OC(C)=O": [],
+      "-;;;CC(C)c1cccc(C(C)C)c1-n1cc[n+](c1)-c1c(cccc1C(C)C)C(C)C": [],
+      "F[B-](F)(F)F;;;CC(C)c1cccc(C(C)C)c1N1C=CN(c2c(cccc2C(C)C)C(C)C)[C+]1F": [],
+      "[Li+]": [],
+      "CCCC": [],
+      "CC(C)C": [],
+      "CCN(CC)CC;;;c1c[nH]cn1": [],
+      "c1c[nH]cn1;;;CCO": [],
+      "CCO": [],
+      "C(=O)([OH])[O-]": [],
+      "[Cs+]": [],
+      "-;;;c1c[nH]cn1": [],
+      "c1c[nH]cn1": [],
+      "O": [],
+      "F[B-](F)(F)F;;;O": [],
+      "c1cc[nH+]cc1": [],
+      "OS([O-])(=O)=O": [],
+      "[K+];;;OC(=O)c1cccc(Cl)c1": [],
+      "-;;;[NH4+]": [],
+      "[K+]": [],
+      "-;;;OS([O-])(=O)=O": [],
+      "[NH4+]": [],
+      "OP(Cl)Cl": [],
+      "[Cl-];;;Oc1nc(Cl)nc(Cl)n1;;;O=S=O": [],
+      "[Cl-]": [],
+      "C(=O)([O-])[OH]": [],
+      "O=C=O": [],
+      "[C-]#[O+]": [],
+      "[Zn];;;CC(=O)CC(=O)C": [],
+      "[Pt]": [],
+      "CCC(=O)": [],
+      "CC=CC=O": [],
+      "CCC(=O)CC": [],
+      "CCC(=O)OC(=O)CC;;;CC(=O)CC(=O)C": [],
+      "[Pd]": [],
+      "[Mo]": [],
+      "[Rh]": [],
+      "CC(C)C=O": [],
+      "C1CCCCN1": [],
+      "Cc1ccccc1S(=O)(=O)Cl": [],
+      "Cc1ccc(S(=O)(=O)Cl)cc1": [],
+      "Cl": [],
+      "O[Cr](=O)(=O)O[Cr](=O)(=O)O": [],
+      "OS(=O)(=O)O": [],
+      "O=I(=O)[I-]": [],
+      "Cl[Al](Cl)Cl": [],
+      "Cl[Fe](Cl)Cl": [],
+      "-;;;-": [],
+      "O=[Ti]=O": [],
+      "O=[V](=O)O[V](=O)=O": [],
+      "[O-]S([O-])(=O)=O": [],
+      "[Ba++]": [],
+      "OC(=O)C": []
+    }
   },
-  "fastRxSet": [
-    "rx53",
-    "rx223",
-    "rx281",
-    "rx146",
-    "rx120",
-    "rx319",
-    "rx241",
-    "rx30",
-    "rx497",
-    "rx193",
-    "rx95",
-    "rx269",
-    "rx208",
-    "rx379",
-    "rx227",
-    "rx190",
-    "rx439",
-    "rx500",
-    "rx98",
-    "rx371",
-    "rx422",
-    "rx529",
-    "rx259",
-    "rx51",
-    "rx291",
-    "rx298",
-    "rx143",
-    "rx170",
-    "rx153",
-    "rx490",
-    "rx117",
-    "rx20",
-    "rx449",
-    "rx301",
-    "rx337",
-    "rx507",
-    "rx176",
-    "rx249",
-    "rx260",
-    "rx406",
-    "rx372",
-    "rx391",
-    "rx70",
-    "rx236",
-    "rx235",
-    "rx199",
-    "rx320",
-    "rx94",
-    "rx512",
-    "rx416",
-    "rx302",
-    "rx498",
-    "rx152",
-    "rx437",
-    "rx27",
-    "rx38",
-    "rx87",
-    "rx501",
-    "rx355",
-    "rx68",
-    "rx465",
-    "rx352",
-    "rx382",
-    "rx359",
-    "rx388",
-    "rx156",
-    "rx377",
-    "rx405",
-    "rx10",
-    "rx147",
-    "rx137",
-    "rx433",
-    "rx185",
-    "rx374",
-    "rx347",
-    "rx72",
-    "rx139",
-    "rx518",
-    "rx67",
-    "rx184",
-    "rx11",
-    "rx263",
-    "rx366",
-    "rx73",
-    "rx211",
-    "rx488",
-    "rx81",
-    "rx231",
-    "rx58",
-    "rx456",
-    "rx421",
-    "rx204",
-    "rx271",
-    "rx101",
-    "rx289",
-    "rx308",
-    "rx75",
-    "rx194",
-    "rx344",
-    "rx325",
-    "rx270",
-    "rx189",
-    "rx99",
-    "rx397",
-    "rx471",
-    "rx161",
-    "rx304",
-    "rx445",
-    "rx368",
-    "rx41",
-    "rx517",
-    "rx122",
-    "rx256",
-    "rx459",
-    "rx461",
-    "rx457",
-    "rx78",
-    "rx164",
-    "rx527",
-    "rx467",
-    "rx157",
-    "rx14",
-    "rx246",
-    "rx91",
-    "rx393",
-    "rx179",
-    "rx358",
-    "rx210",
-    "rx470",
-    "rx13",
-    "rx181",
-    "rx458",
-    "rx410",
-    "rx239",
-    "rx244",
-    "rx92",
-    "rx513",
-    "rx154",
-    "rx160",
-    "rx515",
-    "rx96",
-    "rx48",
-    "rx155",
-    "rx351",
-    "rx202",
-    "rx475",
-    "rx135",
-    "rx306",
-    "rx303",
-    "rx82",
-    "rx373",
-    "rx443",
-    "rx384",
-    "rx360",
-    "rx63",
-    "rx136",
-    "rx225",
-    "rx324",
-    "rx206",
-    "rx340",
-    "rx435",
-    "rx486",
-    "rx307",
-    "rx519",
-    "rx278",
-    "rx493",
-    "rx173",
-    "rx272",
-    "rx528",
-    "rx62",
-    "rx252",
-    "rx251",
-    "rx280",
-    "rx428",
-    "rx390",
-    "rx477",
-    "rx350",
-    "rx521",
-    "rx42",
-    "rx112",
-    "rx145",
-    "rx505",
-    "rx148",
-    "rx264",
-    "rx60",
-    "rx191",
-    "rx385",
-    "rx262",
-    "rx21",
-    "rx213",
-    "rx267",
-    "rx188",
-    "rx100",
-    "rx297",
-    "rx331",
-    "rx217",
-    "rx520",
-    "rx207",
-    "rx287",
-    "rx424",
-    "rx116",
-    "rx118",
-    "rx300",
-    "rx182",
-    "rx268",
-    "rx485",
-    "rx472",
-    "rx168",
-    "rx511",
-    "rx198",
-    "rx503",
-    "rx127",
-    "rx59",
-    "rx35",
-    "rx228",
-    "rx46",
-    "rx514",
-    "rx414",
-    "rx24",
-    "rx480",
-    "rx423",
-    "rx12",
-    "rx22",
-    "rx482",
-    "rx105",
-    "rx126",
-    "rx149",
-    "rx403",
-    "rx464",
-    "rx328",
-    "rx462",
-    "rx450",
-    "rx398",
-    "rx88",
-    "rx196",
-    "rx230",
-    "rx183",
-    "rx460",
-    "rx74",
-    "rx387",
-    "rx205",
-    "rx523",
-    "rx487",
-    "rx54",
-    "rx412",
-    "rx195",
-    "rx315",
-    "rx125",
-    "rx167",
-    "rx214",
-    "rx426",
-    "rx200",
-    "rx294",
-    "rx215",
-    "rx221",
-    "rx525",
-    "rx415",
-    "rx180",
-    "rx469",
-    "rx66",
-    "rx77"
-  ],
-  "slowRxSet": [
-    "rx330",
-    "rx47",
-    "rx299",
-    "rx233",
-    "rx362",
-    "rx411",
-    "rx44",
-    "rx407",
-    "rx89",
-    "rx248",
-    "rx492",
-    "rx45",
-    "rx253",
-    "rx510",
-    "rx309",
-    "rx376",
-    "rx420",
-    "rx178",
-    "rx79",
-    "rx322",
-    "rx234",
-    "rx321",
-    "rx317",
-    "rx17",
-    "rx172",
-    "rx36",
-    "rx159",
-    "rx232",
-    "rx34",
-    "rx124",
-    "rx336",
-    "rx418",
-    "rx220",
-    "rx446",
-    "rx32",
-    "rx240",
-    "rx276",
-    "rx425",
-    "rx484",
-    "rx171",
-    "rx243",
-    "rx345",
-    "rx144",
-    "rx399",
-    "rx109",
-    "rx502",
-    "rx332",
-    "rx166",
-    "rx335",
-    "rx123",
-    "rx76",
-    "rx134",
-    "rx192",
-    "rx474"
-  ],
-  "verySlowRxSet": [
-    "rx52",
-    "rx524"
-  ],
-  "reversibleRx": [
-    "rx53",
-    "rx223",
-    "rx281",
-    "rx120",
-    "rx293",
-    "rx319",
-    "rx30",
-    "rx497",
-    "rx193",
-    "rx269",
-    "rx208",
-    "rx353",
-    "rx233",
-    "rx379",
-    "rx190",
-    "rx439",
-    "rx500",
-    "rx98",
-    "rx529",
-    "rx259",
-    "rx51",
-    "rx364",
-    "rx298",
-    "rx143",
-    "rx430",
-    "rx117",
-    "rx25",
-    "rx449",
-    "rx337",
-    "rx507",
-    "rx219",
-    "rx417",
-    "rx372",
-    "rx391",
-    "rx236",
-    "rx235",
-    "rx89",
-    "rx248",
-    "rx199",
-    "rx102",
-    "rx85",
-    "rx320",
-    "rx94",
-    "rx416",
-    "rx302",
-    "rx498",
-    "rx152",
-    "rx510",
-    "rx437",
-    "rx27",
-    "rx38",
-    "rx216",
-    "rx501",
-    "rx68",
-    "rx465",
-    "rx257",
-    "rx110",
-    "rx309",
-    "rx359",
-    "rx388",
-    "rx156",
-    "rx376",
-    "rx453",
-    "rx420",
-    "rx377",
-    "rx121",
-    "rx218",
-    "rx261",
-    "rx137",
-    "rx433",
-    "rx185",
-    "rx374",
-    "rx347",
-    "rx29",
-    "rx139",
-    "rx329",
-    "rx67",
-    "rx184",
-    "rx11",
-    "rx263",
-    "rx73",
-    "rx211",
-    "rx488",
-    "rx58",
-    "rx178",
-    "rx456",
-    "rx421",
-    "rx169",
-    "rx111",
-    "rx499",
-    "rx84",
-    "rx289",
-    "rx75",
-    "rx194",
-    "rx344",
-    "rx325",
-    "rx99",
-    "rx397",
-    "rx381",
-    "rx483",
-    "rx471",
-    "rx161",
-    "rx304",
-    "rx445",
-    "rx368",
-    "rx41",
-    "rx256",
-    "rx197",
-    "rx78",
-    "rx255",
-    "rx104",
-    "rx527",
-    "rx333",
-    "rx157",
-    "rx393",
-    "rx179",
-    "rx33",
-    "rx358",
-    "rx210",
-    "rx470",
-    "rx13",
-    "rx386",
-    "rx458",
-    "rx234",
-    "rx476",
-    "rx239",
-    "rx317",
-    "rx244",
-    "rx513",
-    "rx96",
-    "rx313",
-    "rx17",
-    "rx348",
-    "rx351",
-    "rx475",
-    "rx135",
-    "rx306",
-    "rx288",
-    "rx82",
-    "rx373",
-    "rx133",
-    "rx443",
-    "rx455",
-    "rx384",
-    "rx360",
-    "rx136",
-    "rx402",
-    "rx206",
-    "rx435",
-    "rx486",
-    "rx247",
-    "rx307",
-    "rx519",
-    "rx278",
-    "rx173",
-    "rx62",
-    "rx336",
-    "rx252",
-    "rx251",
-    "rx280",
-    "rx242",
-    "rx390",
-    "rx341",
-    "rx477",
-    "rx350",
-    "rx145",
-    "rx505",
-    "rx446",
-    "rx148",
-    "rx264",
-    "rx60",
-    "rx191",
-    "rx262",
-    "rx21",
-    "rx213",
-    "rx267",
-    "rx297",
-    "rx331",
-    "rx520",
-    "rx287",
-    "rx424",
-    "rx116",
-    "rx334",
-    "rx118",
-    "rx15",
-    "rx300",
-    "rx182",
-    "rx354",
-    "rx472",
-    "rx168",
-    "rx511",
-    "rx401",
-    "rx144",
-    "rx431",
-    "rx64",
-    "rx35",
-    "rx228",
-    "rx46",
-    "rx514",
-    "rx414",
-    "rx480",
-    "rx423",
-    "rx502",
-    "rx22",
-    "rx115",
-    "rx482",
-    "rx105",
-    "rx57",
-    "rx26",
-    "rx403",
-    "rx332",
-    "rx464",
-    "rx328",
-    "rx462",
-    "rx88",
-    "rx398",
-    "rx196",
-    "rx295",
-    "rx183",
-    "rx460",
-    "rx74",
-    "rx523",
-    "rx54",
-    "rx412",
-    "rx195",
-    "rx315",
-    "rx125",
-    "rx167",
-    "rx76",
-    "rx200",
-    "rx192",
-    "rx525",
-    "rx180",
-    "rx469",
-    "rx395"
-  ],
-  "redoxred": [],
-  "redoxox": [
-    "rx268",
+  "lowYield": [
+    "rx114",
     "rx107",
-    "rx198",
-    "rx318",
-    "rx451",
-    "rx290",
-    "rx222",
-    "rx212",
-    "rx203",
-    "rx489",
     "rx478",
+    "rx212",
     "rx31",
-    "rx43"
+    "rx43",
+    "rx385",
+    "rx221",
+    "rx230",
+    "rx426",
+    "rx265",
+    "rx413",
+    "rx258",
+    "rx299",
+    "rx286",
+    "rx17",
+    "rx429",
+    "rx130"
   ],
   "veryFastRx": [
     "rx356",
@@ -7678,20 +9813,5 @@
     "rx131",
     "rx326",
     "rx341"
-  ],
-  "lowYield": [
-    "rx17",
-    "rx31",
-    "rx43",
-    "rx130",
-    "rx221",
-    "rx230",
-    "rx258",
-    "rx286",
-    "rx299",
-    "rx385",
-    "rx413",
-    "rx426",
-    "rx429"
   ]
 }

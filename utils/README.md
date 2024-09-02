@@ -2,6 +2,7 @@
 In this directory there are deposited scipts for:
 - calculating Mayr rate for given reaction (mayr.py)
 - predicting and rank the most acidic C-H site in molecule (pkarank.py)
+- converting json with reaction pathway to pickle which can be used as input to yieldPrediction.py
 
 
 ## Details about scripts:
@@ -27,3 +28,7 @@ where RXSMILES is SMILES of reaction and RXSMARTS is SMARTS of reaction template
 for example: `python mayr.py --rxsmiles 'O=C=O.[O-]c1ccc(I)cc1>>O=C([O-])Oc1ccc(I)cc1' --rxsmarts '[O:1]=[C:2]=[O:3].[O-:4][c:5]>>[c:5][O+0:4][*:2](=[O:3])[O-:4]'`
 
 See `python mayr.py --help` for optional parameters.
+
+- ### converJSONtoPickle.py
+The script use json with reaction pathway (see format description below) and generates pickle. Basic usage `python ./convertJSONtoPickle.py -i PATHWAY.json --adb ../inputdata/reactionInfo.json -o PATHWAY.pickle` 
+where `PATHWAY.json` is user-generated file with information about pathway,  `../inputdata/reactionInfo.json` is file with information about reaction and `PATHWAY.pickle`

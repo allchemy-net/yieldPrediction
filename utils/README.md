@@ -16,6 +16,7 @@ User can provides his/her own database with other radius and values from other s
 
 Usage: `python ./pkarank.py --smiles SMILES`, for example: `python ./pkarank.py --smiles 'CCC(=O)OCC'`
 
+The command needs to load database (table) with pkas values hence depending on your computer it may takes up to few minues.
 
 ### mayr.py
 The scipt use Mayr table from dataMayr subdirecotry. The data was collected from [Mayr's group webpage](https://www.cup.lmu.de/oc/mayr/reaktionsdatenbank/).

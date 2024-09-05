@@ -35,11 +35,12 @@ In utils/ directory are available helper scripts for generating input files. See
 The easiest way to install dependencies is [using conda](https://www.rdkit.org/docs/Install.html)
 
 ### Instalation:
-No instalation is required to use software install required library and download/clone this repository. 
+No instalation is required to use the software. Please install required library and download/clone this repository. 
 
 ### Example usage:
 Calculate yield for all deposited paths with precalculated model parameters and original reaction data base:
  `python ./yieldPrediction.py --namespace inputdata/modelParams.json  --loadrxdb inputdata/reactionInfo.json --loadpickles inputdata/*/*.pickle`
+
 Abovementioned command will takes several minutes to complite on moder laptop/desktop.
 
 ### Output format:

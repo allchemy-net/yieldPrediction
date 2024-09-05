@@ -7,7 +7,16 @@ from rdkit.Chem import AllChem
 def parseArgs():
     ap = argparse.ArgumentParser()
     ap.add_argument("--smiles", type=str, required=True,  help='input smiles')
-    ap.add_argument('--tables', type=str, default='datapka/pkaAtomicTables.pickle', help='file (pickle) with pka values for atomic fingerprint')
+    ap.add_argument('--tables', type=str, nargs='+', default=['datapka/pkaTable_radius_1part_1.pickle', 'datapka/pkaTable_radius_1part_7.pickle',
+                    'datapka/pkaTable_radius_2part_4.pickle', 'datapka/pkaTable_radius_3part_1.pickle', 'datapka/pkaTable_radius_3part_7.pickle',
+                    'datapka/pkaTable_radius_1part_2.pickle', 'datapka/pkaTable_radius_1part_8.pickle', 'datapka/pkaTable_radius_2part_5.pickle',
+                    'datapka/pkaTable_radius_3part_2.pickle', 'datapka/pkaTable_radius_3part_8.pickle', 'datapka/pkaTable_radius_1part_3.pickle',
+                    'datapka/pkaTable_radius_1part_9.pickle', 'datapka/pkaTable_radius_2part_6.pickle', 'datapka/pkaTable_radius_3part_3.pickle',
+                    'datapka/pkaTable_radius_3part_9.pickle', 'datapka/pkaTable_radius_1part_4.pickle', 'datapka/pkaTable_radius_2part_1.pickle',
+                    'datapka/pkaTable_radius_2part_7.pickle', 'datapka/pkaTable_radius_3part_4.pickle', 'datapka/pkaTable_radius_1part_5.pickle',
+                    'datapka/pkaTable_radius_2part_2.pickle', 'datapka/pkaTable_radius_2part_8.pickle', 'datapka/pkaTable_radius_3part_5.pickle',
+                    'datapka/pkaTable_radius_1part_6.pickle', 'datapka/pkaTable_radius_2part_3.pickle', 'datapka/pkaTable_radius_2part_9.pickle',
+                    'datapka/pkaTable_radius_3part_6.pickle'], help='file (pickle) with pka values for atomic fingerprint')
     ap.add_argument('--verbose', type=int, default=0, help='verbosity level')
     ap.add_argument('--radius', type=int, default=3, help='maximal radius used to matching. Should be the same as in data stored in --tables')
     return ap.parse_args()
@@ -34,12 +43,22 @@ def getFSfromCH(args):
 
 
 def loadTables(args):
-    t0 = time.time()
-    fh = open(args.tables, 'rb')
-    data = pickle.load(fh)
-    fh.close()
-    if args.verbose > 2:
-        print(f'tables loaded in {round(time.time() - t0, 2)} s')
+    t00 = time.time()
+    data = dict()
+    for fname in args.tables:
+        _, rawradius = fname.split('radius_')
+        radius = int(rawradius[0])
+        t0 = time.time()
+        fh = open(fname, 'rb')
+        tmp = pickle.load(fh)
+        fh.close()
+        if radius not in data:
+            data[radius] = dict()
+        data[radius].update(tmp)
+        if args.verbose > 5:
+            print(f'tables loaded in {round(time.time() - t0, 2)} s from {fname} deced radius {radius} SIZES: {[(rad, len(data[rad])) for rad in data]}')
+    if args.verbose > 1:
+        print(f'table loaded in  {round(time.time() - t00, 2)} s, loaded {len(args.tables)} files, radius: {sorted(data.keys())}')
     return data
 
 

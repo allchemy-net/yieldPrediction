@@ -1,6 +1,8 @@
 ## Introduction
 This repository provides code and data for reaction yield prediction. 
-The model is described in the paper "Estimation of multicomponent reactions’ yields from networks of mechanistic steps" and is also used and mentioned in "Systematic, computational discovery of multicomponent reactions and one-pot sequences." by Rafał Roszak, Louis Gadina, Maciej Krzeszewski, Agnieszka Wołos, Ahmad Makkawi, Barbara Mikulak-Klucznik, Olena Vakuliuk, Yasemin Bilgi, Karol Molga, Patrycja Gołębiowska, Mariusz Tasior, Oskar Popik, Tomasz Klucznik, Sara Szymkuć, Martyna Moskal, Sebastian Baś, Mohammad B. Teimouri, Rafał Frydrych, Jacek Mlynarski, Daniel T. Gryko & Bartosz A. Grzybowski
+The model is described in the paper "Estimation of multicomponent reactions’ yields from networks of mechanistic steps" by Sara Szymkuć, Agnieszka Wołos, Rafał Roszak & Bartosz A. Grzybowski published in Nature Communication (in press).
+
+The model is also used and mentioned in "Systematic, computational discovery of multicomponent reactions and one-pot sequences." by Rafał Roszak, Louis Gadina, Agnieszka Wołos, Ahmad Makkawi, Barbara Mikulak-Klucznik, Yasemin Bilgi, Karol Molga, Patrycja Gołębiowska, Oskar Popik, Tomasz Klucznik, Sara Szymkuć, Martyna Moskal, Sebastian Baś, Rafał Frydrych, Jacek Mlynarski, Daniel T. Gryko & Bartosz A. Grzybowski published in Nature Communication (in press)
 
 ## Deposited data
 All data are stored in inputdata directory and consists of:
